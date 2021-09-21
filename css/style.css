@@ -1,0 +1,34 @@
+
+.brand {
+    padding: 30px 0px;
+}
+.brand>div{
+    display: flex;
+    width:80%;
+    margin: 0px auto;
+    justify-content: center;
+    height: 80px;
+}
+.brand__title{
+    margin-right: 30px;
+    text-align: center;
+    padding-top:20px;
+}
+.brand__title h1{
+    font-weight: 700;
+}
+.brand__title h4{
+    font-weight: 400;
+}
+.brand__slide{
+    display: flex;
+    width: 800px;
+}
+.brand__slide-item{
+    margin: 0px 16px;
+}
+.brand__slide-item a img{
+    height: 85px;
+    width: 145px;
+    object-fit: contain;
+}
