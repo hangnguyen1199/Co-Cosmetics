@@ -60,7 +60,7 @@ $(document).ready(function() {
     $('.feadback__content').slick({
         infinite: true,
         slidesToShow: 3,
-        slidesToScroll: 3,
+        slidesToScroll: 1,
         arrows: false
     });
 });
