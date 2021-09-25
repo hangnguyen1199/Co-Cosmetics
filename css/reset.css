@@ -8,13 +8,18 @@ html {
     font-family: 'Montserrat', sans-serif;
     font-size: 62.5%;
 }
+body{
+    font-family:  "Montserrat";
+}
 a {
     text-decoration: none;
     color: #000;
+    transition: color 0.2s;
 }
 ul {
     list-style: none;
 }
+<<<<<<< HEAD
 
 
 
@@ -25,3 +30,12 @@ ul {
 
 
 
+=======
+button{
+    border:none;
+    outline:none;
+}
+p{
+    margin: 0px;
+}
+>>>>>>> a23a29542dc0ad56824c8a1f0e566088491d6286
