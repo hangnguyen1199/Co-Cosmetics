@@ -829,7 +829,7 @@ h2:after {
 /* footer */
 
 .footer {
-    background-image: url("../image/bg_cosmetics.webp");
+    background-image: url("../images/bg_cosmetics.webp");
     background-size: cover;
     color: #fff;
 }
@@ -939,7 +939,7 @@ h2:after {
 .footer__contact {
     height: 130px;
     width: 230px;
-    background-image: url("../image/200930790_2073084129496542_752612718235022900_n.jpg");
+    background-image: url("../images/200930790_2073084129496542_752612718235022900_n.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1377,11 +1377,12 @@ h2:after {
 .wrap_header_tab_skin,
 .wrap_header_tab_body,
 .wrap_header_tab_accessory {
-   background: #fff;
+   background: #ffffff;
    display: none;
    box-shadow: #ccc 1px 4px 5px;
    margin: 0;
-   padding: 30px 20px 25px 15px;
+   /* padding: 30px 20px 25px 15px; */
+   padding: 30px;
    position: absolute;
    top: 100%;
    left: -137px ;
@@ -1390,6 +1391,13 @@ h2:after {
    border: none;
    text-align: left;
    height: 350px;
+}
+
+.wrap_header_tab_makeup a,
+.wrap_header_tab_skin a,
+.wrap_header_tab_body a,
+.wrap_header_tab_accessory a {
+    text-decoration: none;
 }
 
 .wrap_header_tab_skin {
