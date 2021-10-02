@@ -29,7 +29,7 @@ array.push(
         '75000',
         [],
         []
-    )
+    ),
 )
 array.push(
     new Product(
