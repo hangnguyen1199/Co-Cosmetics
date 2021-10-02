@@ -4024,8 +4024,10 @@ array.push(
         'Maybeline',
         'Còn hàng', ['TONE 128', 'TONE 120'],
         '35000',
-        '75000', [], []
-    )
+        '75000',
+        [],
+        []
+    ),
 )
 array.push(
     new Product(

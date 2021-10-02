@@ -63,4 +63,12 @@ $(document).ready(function() {
         slidesToScroll: 1,
         arrows: false
     });
+    $('.product__footer').slick({
+        infinite: false,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: false
+    });
 });
