@@ -30,31 +30,6 @@ function Product(department,category,belongTo,productName,mainAvatar,brand,statu
 }
 
 array.push(
-    // new Product(
-    //     'cham-soc-da',
-    //     'essence-serum-ampole',
-    //     'cc-serum-trang-da-senka-white-beauty-serum-in-cc-40gr',
-    //     'CC Serum trắng da Senka White Beauty Serum in CC 40gr',
-    //     '../image/product1.webp',
-    //     'Maybeline',
-    //     'Còn hàng',
-    //     [],
-    //     '35000',
-    //     '75000',
-    //     [],
-    //     [
-    //         {
-    //             // descTitle:"Thương hiệu:",
-    //             // descContent:"Thương hiệu mỹ phẩm Clio là thương hiệu nổi tiếng tại Hàn Quốc. Clio chuyên sản xuất các dòng sản phẩm trang điểm như son môi, chì kẻ mày, phấn mắt, mascara,... phù hợp với từng nhu cầu làm đẹp và sở thích khác nhau của nhiều chị em phụ nữ. ",
-    //             // descImage:"../image/brand_1.webp"
-    //         },
-    //         {
-    //             // descTitle:"Thương hiệu:",
-    //             // descContent:"Thương hiệu mỹ phẩm Clio là thương hiệu nổi tiếng tại Hàn Quốc. Clio chuyên sản xuất các dòng sản phẩm trang điểm như son môi, chì kẻ mày, phấn mắt, mascara,... phù hợp với từng nhu cầu làm đẹp và sở thích khác nhau của nhiều chị em phụ nữ. ",
-    //             // descImage:"../image/brand_1.webp"
-    //         },
-    //     ]
-    // )
 
     new Product(
         'cham-soc-da',
@@ -4038,25 +4013,6 @@ array.push(
 )
 
 
-localStorage.setItem("products",JSON.stringify(array))
-
-var array = [];
-//mảng lưu các product
-var id = 1
-
-function Product(department, category, belongTo, productName, mainAvatar, brand, status, productType, priceSell, realPrice, moreImage, description) { //constructor function
-    this.productID = id++, //cấp phát tự động 
-        this.url = [department, category, belongTo],
-        this.productName = productName,
-        this.mainAvatar = mainAvatar,
-        this.brand = brand,
-        this.status = status,
-        this.productType = productType,
-        this.priceSell = priceSell,
-        this.realPrice = realPrice,
-        this.moreImage = moreImage,
-        this.description = description
-}
 
 array.push(
     new Product(
