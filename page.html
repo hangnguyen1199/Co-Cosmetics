@@ -233,214 +233,159 @@
             <div class="row">
                 <aside class="left-content col-lg-3 col-lg-3-fix">
                     <div class="row">
+                        <!-- danh mục  -->
                         <div class="category-box">
                             <h2 class="category-box__title">Danh mục</h2>
                         </div>
-                        <div class="dropdown">
-                            <div class="group">
-                                <a href="#" class="name_page">TRANG ĐIỂM</a>
-                                <i onclick="hamDropdown()" class="fas fa-angle-right"></i>
-                                <div class="noidung_dropdown">
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>TRANG ĐIỂM MẶT</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu">
-                                            <li class="level2">
-                                                <a href="#"><span>Cushion - Kem nền</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Che khuyết điểm</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Phấn phủ - Phấn nền</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Má hồng</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Tạo khối - Highlight</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Xịt khoáng nền</span></a>
-                                            </li>
+
+                        <!-- dropdown category -->
+                        <ul class="accordion-menu">
+                            <li class="accordion-menu_children">
+                                <label for="#">TRANG CHỦ</label>
+                                <input type="checkbox" name="" id="make-up" checked>
+                                <label for="make-up">TRANG ĐIỂM<i class="fas fa-angle-right"></i></label>
+                                <ul>
+                                    <li class="accordion-menu_children">
+                                        <!-- nhận vào 1 cái input chị nhớ đặt id theo từng cái cho phù hợp nhé,
+                                                 vd id của cái trang điểm mắt thì id = "make-up-skin"  -->
+                                        <input type="checkbox" name="" id="make-up-skin">
+                                        <!-- sau khi có id cái trên rồi thì truyền id vào thẻ label bên dưới nhé, nhớ làm từng sản phảm :)) -->
+                                        <label for="make-up-skin" class="lv2">TRANG ĐIỂM MẮT<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Cushion - Kem nền</a></li>
+                                            <li><a href="#">Che Khuyết Điểm</a></li>
+                                            <li><a href="#">Phấn phủ - Phấn nền</a></li>
+                                            <li><a href="#">Má Hồng</a></li>
+                                            <li><a href="#">Tạo khối - Highlight</a></li>
+                                            <li><a href="#">Xịt khoáng nền nền</a></li>
                                         </ul>
                                     </li>
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>MÔI</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Son môi</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Son dưỡng</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Mặt nạ môi</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Tẩy tế bào chết môi</span></a>
-                                            </li>
+                                    <!-- mấy cái có dropdown xuống thì làm như ri. ko có thì chỉ ghi như cái TRANG CHỦ thôi chị nhó -->
+
+                                    <li class="accordion-menu_children">
+                                        <input type="checkbox" name="" id="make-up-lip">
+                                        <label for="make-up-lip" class="lv2">MÔI<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Son môi</a></li>
+                                            <li><a href="#">Son dưỡng</a></li>
+                                            <li><a href="#">Mặt nạ môi</a></li>
+                                            <li><a href="#">Tẩy tế bào chết môi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>MẮT</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu  noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Eyeliner - Kẻ mắt</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Mascara</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Kẻ mày</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Phấn mắt</span></a>
-                                            </li>
+                                    <li class="accordion-menu_children">
+                                        <input type="checkbox" name="" id="make-up-eyes">
+                                        <label for="make-up-eyes" class="lv2">MẮT<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Eyeliner - Kẻ mắt</a></li>
+                                            <li><a href="#">Mascara</a></li>
+                                            <li><a href="#">Kẻ mày</a></li>
+                                            <li><a href="#">Phấn mắt</a></li>
                                         </ul>
                                     </li>
-                                </div>
-                            </div>
-                            <div class="group">
-                                <a href="#" class="name_page">CHĂM SÓC DA</a>
-                                <i onclick="hamDropdown()" class="fas fa-angle-right"></i>
-                                <div class="noidung_dropdown">
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>LÀM SẠCH - TẨY TẾ BÀO CHẾT</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Sữa rửa mặt</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Tẩy tế bào chết</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Tẩy trang</span></a>
-                                            </li>
+                                </ul>
+                                <input type="checkbox" name="" id="skin-care-1" checked>
+                                <label for="skin-care-1">CHĂM SÓC DA<i class="fas fa-angle-right"></i></label>
+                                <ul>
+                                    <li class="accordion-menu_children">
+                                        <!-- nhận vào 1 cái input chị nhớ đặt id theo từng cái cho phù hợp nhé,
+                                                 vd id của cái trang điểm mắt thì id = "make-up-skin"  -->
+                                        <input type="checkbox" name="" id="skin-care">
+                                        <!-- sau khi có id cái trên rồi thì truyền id vào thẻ label bên dưới nhé, nhớ làm từng sản phảm :)) -->
+                                        <label for="skin-care" class="lv2">LÀM SẠCH - TẨY TẾ BÀO CHẾT<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Sữa rửa mặt</a></li>
+                                            <li><a href="#">Tẩy tế bào chết mặt</a></li>
+                                            <li><a href="#">Tẩy trang</a></li>
                                         </ul>
                                     </li>
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>MASK - MẶT NẠ</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Mặt nạ giấy</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Mặt nạ đất sét</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Mặt nạ môi</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Mặt nạ lột</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Mặt nạ mắt</span></a>
-                                            </li>
+                                    <!-- mấy cái có dropdown xuống thì làm như ri. ko có thì chỉ ghi như cái TRANG CHỦ thôi chị nhó -->
+
+                                    <li class="accordion-menu_children">
+                                        <input type="checkbox" name="" id="skin-face">
+                                        <label for="skin-face" class="lv2">MASK - MẶT NẠ<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Mặt nạ giấy</a></li>
+                                            <li><a href="#">Mặt nạ đất sét</a></li>
+                                            <li><a href="#">Mặt nạ môi</a></li>
+                                            <li><a href="#">Mặt nạ lột</a></li>
+                                            <li><a href="#">Mặt nạ mắt</a></li>
                                         </ul>
                                     </li>
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>DƯỠNG DA</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Kem dưỡng da</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Toner - Essence - Lotion</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Serum - Ampole - Đặc trị</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Kem chống nắng</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Dưỡng vùng mắt</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Bộ dưỡng da</span></a>
-                                            </li>
+                                    <li class="accordion-menu_children">
+                                        <input type="checkbox" name="" id="skin-moisturizing">
+                                        <label for="skin-moisturizing" class="lv2">DƯỠNG DA<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Kem dưỡng da</a></li>
+                                            <li><a href="#">Toner - Essence - Lotion</a></li>
+                                            <li><a href="#">Serum - Ampole - Đặc trị</a></li>
+                                            <li><a href="#">Kem chống nắng</a></li>
+                                            <li><a href="#">Dưỡng vùng mắt</a></li>
+                                            <li><a href="#">Bộ dưỡng da</a></li>
                                         </ul>
                                     </li>
-                                </div>
-                            </div>
-                            <div class="group">
-                                <a href="#" class="name_page">CHĂM SÓC CƠ THỂ</a>
-                                <i onclick="hamDropdown()" class="fas fa-angle-right"></i>
-                                <div class="noidung_dropdown">
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>DƯỠNG DA BODY</span> <i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Thực phẩm chức năng</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Dưỡng thể</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Sữa tắm</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Khử mùi</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Chăm sóc răng miệng</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Tẩy tế bào chết - Body</span></a>
-                                            </li>
+                                </ul>
+                                <input type="checkbox" name="" id="skin-body" checked>
+                                <label for="skin-body">CHĂM SÓC CƠ THỂ<i class="fas fa-angle-right"></i></label>
+                                <ul>
+                                    <li class="accordion-menu_children">
+                                        <!-- nhận vào 1 cái input chị nhớ đặt id theo từng cái cho phù hợp nhé,
+                                                 vd id của cái trang điểm mắt thì id = "make-up-skin"  -->
+                                        <input type="checkbox" name="" id="body-skin">
+                                        <!-- sau khi có id cái trên rồi thì truyền id vào thẻ label bên dưới nhé, nhớ làm từng sản phảm :)) -->
+                                        <label for="body-skin" class="lv2">DƯỠNG DA BODY<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Thực phẩm chức năng</a></li>
+                                            <li><a href="#">Dưỡng thể</a></li>
+                                            <li><a href="#">Sữa tắm</a></li>
+                                            <li><a href="#">Khử mùi</a></li>
+                                            <li><a href="#">Chăm sóc răng miệng</a></li>
+                                            <li><a href="#">Tẩy tế bào chết body</a></li>
                                         </ul>
                                     </li>
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>CHĂM SÓC TÓC</span> <i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Dầu gội, xả</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Dưỡng tóc</span></a>
-                                            </li>
+                                    <!-- mấy cái có dropdown xuống thì làm như ri. ko có thì chỉ ghi như cái TRANG CHỦ thôi chị nhó -->
+
+                                    <li class="accordion-menu_children">
+                                        <input type="checkbox" name="" id="hair-care">
+                                        <label for="hair-care" class="lv2">CHĂM SÓC TÓC<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Dầu gội, xả</a></li>
+                                            <li><a href="#">Dưỡng tóc</a></li>
                                         </ul>
                                     </li>
-                                </div>
-                            </div>
-                            <div class="group">
-                                <a href="#" class="name_page">PHỤ KIỆN</a>
-                                <i onclick="hamDropdown()" class="fas fa-angle-right"></i>
-                                <div class="noidung_dropdown">
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>PHỤ KIỆN MAKEUP</span><i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Cọ trang điểm</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Phụ kiện mi</span></a>
-                                            </li>
+
+                                </ul>
+                                <input type="checkbox" name="" id="phu-kien" checked>
+                                <label for="phu-kien">PHỤ KIỆN<i class="fas fa-angle-right"></i></label>
+                                <ul>
+                                    <li class="accordion-menu_children">
+                                        <!-- nhận vào 1 cái input chị nhớ đặt id theo từng cái cho phù hợp nhé,
+                                                 vd id của cái trang điểm mắt thì id = "make-up-skin"  -->
+                                        <input type="checkbox" name="" id="pk-makeup">
+                                        <!-- sau khi có id cái trên rồi thì truyền id vào thẻ label bên dưới nhé, nhớ làm từng sản phảm :)) -->
+                                        <label for="pk-makeup" class="lv2">PHỤ KIỆN MAKEUP<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Cọ trang điểm</a></li>
+                                            <li><a href="#">Phụ kiện mi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="level1">
-                                        <a href="#" class="name_page"><span>PHỤ KIỆN CÁ NHÂN</span>  <i onclick="hamDropdown()" class="fas fa-angle-right"></i></a>
-                                        <ul class="level1 sub-menu noidung_dropdown">
-                                            <li class="level2">
-                                                <a href="#"><span>Phụ kiện phòng tắm</span></a>
-                                            </li>
-                                            <li class="level2">
-                                                <a href="#"><span>Phụ kiện cá nhân</span></a>
-                                            </li>
+                                    <!-- mấy cái có dropdown xuống thì làm như ri. ko có thì chỉ ghi như cái TRANG CHỦ thôi chị nhó -->
+
+                                    <li class="accordion-menu_children">
+                                        <input type="checkbox" name="" id="pk-personal">
+                                        <label for="pk-personal" class="lv2">PHỤ KIỆN CÁ NHÂN<i class="fas fa-angle-right"></i></label>
+                                        <ul>
+                                            <li><a href="#">Phụ kiện phòng tắm</a></li>
+                                            <li><a href="#">Phụ kiện cá nhân</a></li>
                                         </ul>
                                     </li>
-                                </div>
-                            </div>
-                            <li class="level0 level-top parent level_ico">
-                                <a href="#" class="name_page">CHO NAM</a>
+
+                                </ul>
+                                <label for="#">CHO NAM</label>
+                                <label for="#">NƯỚC HOA</label>
+                                <label for="#">SĂN QUÀ</label>
                             </li>
-                            <li class="level0 level-top parent level_ico">
-                                <a href="#" class="name_page">NƯỚC HOA</a>
-                            </li>
-                            <li class="level0 level-top parent level_ico">
-                                <a href="#" class="name_page">SĂN QUÀ</a>
-                            </li>
-                        </div>
+                        </ul>
+
                     </div>
                     <div class="check-brand">
                         <div class="row">

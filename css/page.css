@@ -18,12 +18,12 @@ i {
     margin-left: 45px;
 }
 
-.home span {
+.accordion-menu_children label {
     font-size: 14px;
     font-family: "Montserrat", sans-serif !important;
 }
 
-.home span:hover {
+.accordion-menu_children label:hover {
     color: #437349;
 }
 
@@ -52,41 +52,12 @@ i {
     margin-top: 15px;
 }
 
-.name_page,
 .xemthem {
     font-size: 14px;
     font-family: "Montserrat", sans-serif !important;
     color: #000000;
     font-weight: 400;
     line-height: 1.7;
-}
-
-.name_page:hover,
-.level2 span:hover {
-    color: #437349;
-}
-
-.level2 span {
-    font-size: 14px;
-    font-family: "Montserrat", sans-serif !important;
-    color: #000000;
-    font-weight: 400;
-    line-height: 1.7;
-}
-
-.group i:hover {
-    color: #437349;
-}
-
-.group i,
-.name_page>.fas {
-    width: 30px;
-    height: 30px;
-    margin-top: 0px;
-    line-height: 28px;
-    cursor: pointer;
-    text-align: center;
-    font-size: 15px;
 }
 
 .category-box__title {
@@ -146,6 +117,7 @@ i {
 }
 
 .xemthem {
+    text-decoration: none !important;
     float: left;
     width: 100%;
     margin: 20px 0 30px 0;
@@ -163,10 +135,11 @@ i {
 }
 
 .list-top {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .list-top a {
+    text-decoration: none;
     margin-left: 10px;
 }
 
@@ -180,32 +153,56 @@ i {
     background-color: #437349;
 }
 
-
-/*
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.noidung_dropdown {
-    display: none;
+.accordion-menu input[type=checkbox] {
+    /* cái này để hide cái checkbox */
     position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
+    opacity: 0;
 }
 
-.noidung_dropdown a {
-    color: black;
-    padding: 12px 16px;
+.accordion-menu label,
+.accordion-menu a,
+.accordion-menu i {
+    position: relative;
+    display: block;
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.accordion-menu ul {
+    display: none;
+}
+
+.accordion-menu input[type=checkbox]:checked+label+ul,
+.accordion-menu input[type=checkbox]:checked+label:nth-of-type(n)+ul {
+    display: block;
+}
+
+.accordion-menu_children .lv2 {
+    padding-left: 25px;
+    margin-top: 5px;
+}
+
+.accordion-menu_children ul li {
+    padding-top: 5px;
+}
+
+.accordion-menu_children ul li a {
+    padding-top: 5px;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif !important;
     text-decoration: none;
-    display: block;
+    padding-left: 40px;
 }
 
-.hienThi {
-    display: block;
-} */
+.accordion-menu_children ul li a:hover {
+    color: #437349;
+}
 
-
-/*jdshfj*/
+.uutien h3 {
+    font-size: 14px;
+    font-weight: 400;
+    float: left;
+    margin: 0;
+    margin-top: 2px;
+    color: #707070;
+}
