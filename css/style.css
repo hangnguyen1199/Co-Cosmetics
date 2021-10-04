@@ -16,6 +16,10 @@ ul {
     padding: 0px 0 30px;
 }
 
+.mg-bottom-35 {
+    margin-bottom: 35px;
+}
+
 .title-content {
     font-family: 'Montserrat', sans-serif;
     display: flex;
@@ -1106,6 +1110,12 @@ h2:after {
    margin-right: auto;
 }
 
+a { 
+    text-decoration: none;
+}
+
+
+
 
 
 
@@ -1122,6 +1132,10 @@ h2:after {
    height: 40px;
    line-height: 40px;
 
+}
+
+.header_topbar a { 
+    text-decoration: none;
 }
 .header_topbar_left {
    display: flex;
@@ -1368,6 +1382,7 @@ h2:after {
    line-height: 60px;
    text-transform: uppercase;
    font-weight: 500;
+   text-decoration: none;
 }
 
 .wrap_header_items > li:hover > a {

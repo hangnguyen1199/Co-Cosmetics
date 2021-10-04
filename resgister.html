@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tài khoản Cỏ-Cosmetics & Skincare chuỗi cửa hàng mỹ phẩm chính hãng</title>
+    <title>Tạo Tài Khoản Cỏ-Cosmetics & Skincare chuỗi cửa hàng mỹ phẩm chính hãng</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap">
@@ -223,7 +223,7 @@
                                 <span>Trang chủ</span>
                             </a>
                         </li>
-                        <li class="account"><span>Tài khoản</span>
+                        <li class="account"><span>Tạo Tài khoản</span>
                         </li>
                     </ul>
                 </div>
@@ -233,74 +233,65 @@
 
 
 <!-- form đăng nhập -->
-    <div class="login-form layout">
-        <h1 class="title-head"><span><h1>Tài khoản</h1></span></h1>
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="page-login margin-bottom-30">
-                    <div id="login">
-                        <span> <p>Nếu bạn đã có tài khoản, đăng nhập tại đây.</p></span>
-                        <form accept-charset="UTF-8" action="/account/login" id="customer_login" method="post">
-                        <input name="form_type" type="hidden" value="customer_login">
-                        <input name="utf8" type="hidden" value="✓">
-    
-                        <div class="form-signup">
-                            
-                        </div>
-    
-    
-                        <div class="form-signup clearfix">
-                            <fieldset class="form-group">
-                                <label>Email: </label>
-                                <input type="email" class="form-control form-control-lg" value="" name="customer[email]" id="customer_email" placeholder="Email">
-                            </fieldset>
-                            <fieldset class="form-group">
-                                <label>Mật khẩu: </label>
-                                <input type="password" class="form-control form-control-lg" value="" name="customer[password]" id="customer_password" placeholder="Mật khẩu">
-                            </fieldset>
-    
-                            <div class="pull-xs-left" style="margin-top: 25px;">
-                                <input class="btn btn-primary" type="submit" value="Đăng nhập">
-                                <a href="/account/register" class="btn-link-style btn-register" style="margin-left: 20px;text-decoration: underline; ">Đăng ký</a>
-                            </div>
-                        </div>
-                        
-                    <input id="1b1d1c9e082b47d48ab650bcde914d49" name="g-recaptcha-response" type="hidden" value="03AGdBq27rzFPqTTrFfYl8775YqxiXH_i2esKn_OE37bYXJYhek0RLblc_6MwxER-Jngh3fdCCJIJG1vvUjonq9pnp1xL0AWlvw0tMjyxTyc7YbsU5oWR3VU_0i2iXlh0W-tN8kz3QMYMCa1kC0RaCsGEo_RvTFpLKIKet148VhPNeIddrqZqnNZTjFl7Qy2N0BE6HnwU5jOTODYaNzgVVDW0THd4JhZh-a8sRBvtr_0uaXZZs-ygo9AGUGCrcPbUXqJCCE8KOB-vH1FY73el5R8d7Mb8dcvgGV3dagJ1VcO-9Cau6hckLQeTuo8udMwTRYADD5E0ysV3QcttS6szD7GOVJIsuRv9ZCliOEXdre-KGbhztwDQxpUstaViXH8GHxJbJOWpp7eA1synjryINIamuCCyQdvaAQibCpQX_tezj3sYvph-Qjxa_1wA1Yp2J4uvSvcIeJhbyROgdwyNTJRMAs9dcKUotIKUv-RYtjU4fb6RG44IrGozHxUQVekZ_4Mau-zpcswyW"><script src="https://www.google.com/recaptcha/api.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-"></script><script>grecaptcha.ready(function() {grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-', {action: 'submit'}).then(function(token) {document.getElementById('1b1d1c9e082b47d48ab650bcde914d49').value = token;});});</script></form>
-                    </div>
-    
-    
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div id="recover-password" class="form-signup">
-                    <span>
-                       <p>Bạn quên mật khẩu? Nhập địa chỉ email để lấy lại mật khẩu qua email.</p> 
-                    </span>					
-                    <form accept-charset="UTF-8" action="/account/recover" method="post">
-                    <input name="form_type" type="hidden" value="recover_customer_password">
+<div class="container">
+	<h1 class="title-head"><a href="#">Tạo tài khoản</a></h1>
+	<div class="row mg-b-50">
+		<div class="col-lg-12 ">
+			<div class="page-login">
+				<div id="login">
+					<span>Nếu chưa có tài khoản vui lòng đăng ký tại đây</span>
+
+					<form accept-charset="UTF-8" action="/account" id="create_customer" method="post">
+                    <input name="form_type" type="hidden" value="create_customer">
                     <input name="utf8" type="hidden" value="✓">
-    
-                    <div class="form-signup">
-                        
-                    </div>
-    
                     
-                    <div class="form-signup clearfix">
-                        <fieldset class="form-group">
-                            <label>Email: </label>
-                            <input type="email" class="form-control form-control-lg" value="" name="Email" id="recover-email" placeholder="Email">
-                        </fieldset>
-                    </div>
-                    <div class="action_bottom">
-                        <input class="btn btn-primary" style="margin-top: 25px;" type="submit" value="Lấy lại mật khẩu">
-    
-                    </div>
-                    
-                <input id="fd4b361b4e174110b94ecb7ded03a18b" name="g-recaptcha-response" type="hidden" value="03AGdBq27uviyqyMDyYPuF-Xds1tLGua-TZ-iiCvyk1yuZZbN-2w4ea5VcpLogvfYnWpVrcxQNjnwt_22hBdqn6JgD7DcTwoGPJwrgEg4-OOvmWx7Gj391ZsfUEwMV12LLxPm4dQ1wyvbJjuDhKbHi8eRK6pUVwQ0FBncOzTLmXNYZYFK-lB4ZvY27MQK-nuOHLMzXZ5EdkCtGJbI1gpDz7JyPwHRfZFpafidv5h_CAvZaGabMIyDUTwlPHAP-_wmQftZ0BN0YOZnKU7dEG8dtQTligrrFzxQ1Tl_-3_ubWPni1RMTeo7BxvHuVCqzsbgZorfJnt8F-InS36pADxRdszBNv8sDQL8awgL2Hl_6-Wc_hPd2m-Kut8scqLP3CbajgHSPICEy50Z2HkbTa-S-wW6BdgxJeFg3jzW51x8MiB-79KOcHbhX3cCczl4KvVXCe_O9q_994J_8L3daLHcvz5-JI_s7NfgicjoLoGxr9h_TKkmSOym3LSnUegoYk6GpdiW_ORZIls3P"><script src="https://www.google.com/recaptcha/api.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-"></script><script>grecaptcha.ready(function() {grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-', {action: 'submit'}).then(function(token) {document.getElementById('fd4b361b4e174110b94ecb7ded03a18b').value = token;});});</script></form>
-                </div>
-            </div>
-        </div>
-    </div>
+					<div class="form-signup">
+						
+					</div>
+					<div class="form-signup clearfix">
+						<div class="row">
+							<div class="col-md-6">
+								<fieldset class="form-group">
+									<label>Họ: </label>
+									<input type="text" class="form-control form-control-lg" value="" name="customer[last_name]" id="lastName" placeholder="" required="">
+								</fieldset>
+							</div>
+							<div class="col-md-6">
+								<fieldset class="form-group">
+									<label>Tên: </label>
+									<input type="text" class="form-control form-control-lg" value="" name="customer[first_name]" id="firstName" placeholder="" required="">
+								</fieldset>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-6">
+								<fieldset class="form-group">
+									<label>Email: </label>
+									<input type="email" class="form-control form-control-lg" value="" name="customer[email]" id="email" placeholder="" required="">
+								</fieldset>
+							</div>
+							<div class="col-md-6">
+
+								<fieldset class="form-group">
+									<label>Mật khẩu: </label>
+									<input type="password" class="form-control form-control-lg" value="" name="customer[password]" id="password" placeholder="" required="">
+								</fieldset>
+							</div>
+						</div>
+
+
+						<div class="col-xs-12 text-xs-left margin-bottom-30" style="margin-top:6px; padding: 0">
+							<button type="summit" value="Đăng ký" class="btn btn-primary">Đăng ký</button>
+							<a href="/account/login" class="btn-link-style btn-register" style="margin-left: 20px;text-decoration: underline; ">Đăng nhập</a>
+						</div>
+					</div>
+					
+                    <input id="2966df02db9547ff8b149b1dcc2cda16" name="g-recaptcha-response" type="hidden" value="03AGdBq257tjlSGjU4ObdqW7RyKOmGZZW_phoLENBdFK9NdTlZ6XBKLAzmHWvrcFCH3_DX-ah1BMtN3EIczwQO9cPivu1NO0bmHtnpuPb-cM_A59k4apyGRmMJE483QKFoZyBGucneh9iQtW_rxfvmDREgZWCKVwS5M8yxmjY5r6t9tLPClNZAYR-kbJM_-dbOdpMxwBgCwYDYeCln1ugfU6cqDvShPj5IBNFuS2cV1FNM4i0wrcflZVAzMZse2vx2qLJhdUOpNHkaLXhLUyBg1h2BGePiy7cem-8yYSBtXdl8P8lcIDCSMz2YEbzqg4zXOeb20e8fL72B17WZCqYwFXa7E_CYGjhykrVbnR4RBlv2eBZOPqucBwLVtwEmMp4gURPq3RYaiBZHKlsFp1Pc7ZQ4X-nF7Bwn2cNxP3DJRmBMaHfRA163PYo"><script src="https://www.google.com/recaptcha/api.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-"></script><script>grecaptcha.ready(function() {grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-', {action: 'submit'}).then(function(token) {document.getElementById('2966df02db9547ff8b149b1dcc2cda16').value = token;});});</script></form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 
