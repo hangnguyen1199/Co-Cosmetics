@@ -5,29 +5,27 @@ $(document).ready(function() {
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 2000,
-        prevArrow: $('#btt-prev'),
-        nextArrow: $('#btt-next'),
-        // responsive: [{
-        //     breakpoint: 1025,
-        //     settings: {
-        //         dots: true,
-        //         infinite: true,
-        //         speed: 300,
-        //         slidesToShow: 1,
-        //         adaptiveHeight: true,
-        //         autoplay: true,
-        //         autoplaySpeed: 2000,
-        //     }
-        // }, {
-        //     breakpoint: 769,
-        //     settings: {
-        //         slidesToShow: 1,
-        //         slidesToScroll: 1,
-        //         infinite: true,
-        //         autoplay: true,
-        //         autoplaySpeed: 2000,
-        //     }
-        // }, ]
+        responsive: [{
+            breakpoint: 1025,
+            settings: {
+                dots: true,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 3,
+                adaptiveHeight: true,
+                autoplay: true,
+                autoplaySpeed: 2000,
+            }
+        }, {
+            breakpoint: 769,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                infinite: true,
+                autoplay: true,
+                autoplaySpeed: 2000,
+            }
+        }, ]
     });
 })
 $(document).ready(function() {
@@ -37,6 +35,27 @@ $(document).ready(function() {
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 2000,
+        responsive: [{
+            breakpoint: 1025,
+            settings: {
+                dots: true,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 2,
+                adaptiveHeight: true,
+                autoplay: true,
+                autoplaySpeed: 2000,
+            }
+        }, {
+            breakpoint: 769,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 1,
+                infinite: true,
+                autoplay: true,
+                autoplaySpeed: 2000,
+            }
+        }, ]
     });
 })
 $(document).ready(function() {

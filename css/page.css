@@ -1,5 +1,18 @@
 /*category*/
 
+a {
+    text-decoration: none;
+}
+
+.home a {
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.home a:hover {
+    color: #437349;
+}
+
 i {
     float: right;
     margin-right: -30px;
@@ -11,11 +24,14 @@ i {
 
 .home__header {
     display: flex;
-    margin: 0;
     padding: 15px 0;
     border-radius: 0;
     text-align: left;
     margin-left: 45px;
+}
+
+.accordion-menu_children label a {
+    text-decoration: none;
 }
 
 .accordion-menu_children label {
@@ -23,7 +39,7 @@ i {
     font-family: "Montserrat", sans-serif !important;
 }
 
-.accordion-menu_children label:hover {
+.accordion-menu_children label a:hover {
     color: #437349;
 }
 
@@ -58,6 +74,15 @@ i {
     color: #000000;
     font-weight: 400;
     line-height: 1.7;
+    text-decoration: none !important;
+    float: left;
+    width: 100%;
+    margin: 20px 0 30px 0;
+    display: flex;
+}
+
+.xemthem:hover {
+    color: #437349;
 }
 
 .category-box__title {
@@ -70,7 +95,7 @@ i {
     text-transform: none;
     font-weight: 700;
     display: inline-block;
-    padding: 0px;
+    padding-left: 20px;
     position: relative;
     cursor: pointer;
 }
@@ -116,18 +141,6 @@ i {
     padding: 0px;
 }
 
-.xemthem {
-    text-decoration: none !important;
-    float: left;
-    width: 100%;
-    margin: 20px 0 30px 0;
-    display: flex;
-}
-
-.xemthem:hover {
-    color: #437349;
-}
-
 .prioritized {
     display: flex;
     margin-top: 20px;
@@ -136,20 +149,21 @@ i {
 
 .list-top {
     margin-left: 10px;
+    display: flex;
 }
 
-.list-top a {
+.list-top div {
     text-decoration: none;
     margin-left: 10px;
 }
 
-.list-top a label {
-    font-size: 13px;
+.list-top div label {
+    font-size: 15px;
     position: relative;
     color: #707070;
 }
 
-.list-top a input:hover {
+.list-top div input:hover {
     background-color: #437349;
 }
 
@@ -163,7 +177,8 @@ i {
 .accordion-menu a,
 .accordion-menu i {
     position: relative;
-    display: block;
+    display: flex;
+    justify-content: space-between;
     cursor: pointer;
     padding-left: 10px;
 }
@@ -179,19 +194,21 @@ i {
 
 .accordion-menu_children .lv2 {
     padding-left: 25px;
-    margin-top: 5px;
+    margin-top: -5px;
 }
 
 .accordion-menu_children ul li {
     padding-top: 5px;
 }
 
+.product-lv3 {
+    padding-left: 40px;
+}
+
 .accordion-menu_children ul li a {
-    padding-top: 5px;
     font-size: 14px;
     font-family: "Montserrat", sans-serif !important;
     text-decoration: none;
-    padding-left: 40px;
 }
 
 .accordion-menu_children ul li a:hover {
@@ -205,4 +222,24 @@ i {
     margin: 0;
     margin-top: 2px;
     color: #707070;
+}
+
+
+/*scoll*/
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+ ::-webkit-scrollbar-track {
+    border-radius: 5px;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #e9edf5;
+    border-radius: 5px;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #e9edf5;
 }
