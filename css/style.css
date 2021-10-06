@@ -1437,6 +1437,29 @@ h2:after {
     color: var(--main);
 }
 
+.wrap_header_items > li {
+    font-weight: 400;
+    display: inline-block;
+    float: none;
+    position: relative;
+    margin-right: 0px;
+    margin-left: 1px;
+    font-size: 15px;
+    line-height: 60px;
+    height: 60px;
+}
+
+.wrap_header_items>li>a {
+    color: #fff;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.wrap_header_items>li:hover>a {
+    color: var(--main);
+}
+
 .wrap_header_items>li {
     font-weight: 400;
     display: inline-block;
