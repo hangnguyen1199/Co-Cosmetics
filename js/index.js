@@ -5,8 +5,6 @@ $(document).ready(function() {
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 2000,
-        // prevArrow: $('#btt-prev'),
-        // nextArrow: $('#btt-next'),
         responsive: [{
             breakpoint: 1025,
             settings: {
