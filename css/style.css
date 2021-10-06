@@ -1495,9 +1495,15 @@ h2:after {
     padding: 39px;
     position: absolute;
     top: 100%;
+<<<<<<< HEAD
     left: -155px;
     z-index: 99;
     width: 1268px;
+=======
+    left: -153px;
+    z-index: 99;
+    width: 1273px;
+>>>>>>> NhiTran2
     border: none;
     /* text-align: left; */
     height: 350px;
@@ -1510,25 +1516,30 @@ h2:after {
     text-decoration: none;
 }
 
-.wrap_header_tab_makeup a,
-.wrap_header_tab_skin a,
-.wrap_header_tab_body a,
-.wrap_header_tab_accessory a {
-    text-decoration: none;
-}
 
 .wrap_header_tab_skin {
+<<<<<<< HEAD
     left: -333px;
 
 }
 
 .wrap_header_tab_body {
     left: -526px;
+=======
+    left: -334px;
+}
+
+.wrap_header_tab_body {
+    left: -525px;
+>>>>>>> NhiTran2
 }
 
 .wrap_header_tab_accessory {
     left: -753px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> NhiTran2
 }
 
 .wrap_header_tab_column {
@@ -1573,6 +1584,8 @@ h2:after {
 .wrap_header_items li:hover .wrap_header_tab_body,
 .wrap_header_items li:hover .wrap_header_tab_accessory {
     display: block;
+    transition: transform 0.5s ease, opacity 0.6s ease, max-height 0.6s step-end, max-width 0.6s step-end, padding 0.6s step-end;
+
 }
 
 
