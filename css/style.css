@@ -1148,6 +1148,7 @@ h2:after {
 
 .mg-left {
     margin-left: 8px;
+    line-height: inherit;
 }
 
 .f-right {
@@ -1436,6 +1437,29 @@ h2:after {
     color: var(--main);
 }
 
+.wrap_header_items > li {
+    font-weight: 400;
+    display: inline-block;
+    float: none;
+    position: relative;
+    margin-right: 0px;
+    margin-left: 1px;
+    font-size: 15px;
+    line-height: 60px;
+    height: 60px;
+}
+
+.wrap_header_items>li>a {
+    color: #fff;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.wrap_header_items>li:hover>a {
+    color: var(--main);
+}
+
 .wrap_header_items>li {
     font-weight: 400;
     display: inline-block;
@@ -1516,6 +1540,17 @@ h2:after {
     line-height: 40px;
     font-size: 15px;
     font-weight: 400;
+}
+
+.text-lv2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    color: #437349;
+}
+
+.text-lv2:hover {
+    color: #000000;
 }
 
 .wrap_header_tab_column_1>li:hover a,
