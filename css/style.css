@@ -1437,7 +1437,7 @@ h2:after {
     color: var(--main);
 }
 
-.wrap_header_items>li {
+.wrap_header_items > li {
     font-weight: 400;
     display: inline-block;
     float: none;
