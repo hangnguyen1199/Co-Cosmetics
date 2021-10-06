@@ -1495,15 +1495,9 @@ h2:after {
     padding: 39px;
     position: absolute;
     top: 100%;
-<<<<<<< HEAD
     left: -155px;
     z-index: 99;
     width: 1268px;
-=======
-    left: -153px;
-    z-index: 99;
-    width: 1273px;
->>>>>>> NhiTran2
     border: none;
     /* text-align: left; */
     height: 350px;
@@ -1518,28 +1512,16 @@ h2:after {
 
 
 .wrap_header_tab_skin {
-<<<<<<< HEAD
     left: -333px;
 
 }
 
 .wrap_header_tab_body {
     left: -526px;
-=======
-    left: -334px;
-}
-
-.wrap_header_tab_body {
-    left: -525px;
->>>>>>> NhiTran2
 }
 
 .wrap_header_tab_accessory {
     left: -753px;
-<<<<<<< HEAD
-
-=======
->>>>>>> NhiTran2
 }
 
 .wrap_header_tab_column {
