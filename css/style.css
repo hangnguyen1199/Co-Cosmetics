@@ -1492,14 +1492,14 @@ h2:after {
     box-shadow: #ccc 1px 4px 5px;
     margin: 0;
     /* padding: 30px 20px 25px 15px; */
-    padding: 30px;
+    padding: 39px;
     position: absolute;
     top: 100%;
-    left: -137px;
+    left: -155px;
     z-index: 99;
-    width: 1140px;
+    width: 1268px;
     border: none;
-    text-align: left;
+    /* text-align: left; */
     height: 350px;
 }
 
@@ -1518,15 +1518,17 @@ h2:after {
 }
 
 .wrap_header_tab_skin {
-    left: -304px;
+    left: -333px;
+
 }
 
 .wrap_header_tab_body {
-    left: -479px;
+    left: -526px;
 }
 
 .wrap_header_tab_accessory {
-    left: -680px;
+    left: -753px;
+
 }
 
 .wrap_header_tab_column {
