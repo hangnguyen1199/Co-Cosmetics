@@ -1495,11 +1495,11 @@ h2:after {
     padding: 39px;
     position: absolute;
     top: 100%;
-    left: -153px;
+    left: -155px;
     z-index: 99;
     min-width: 1270px;
     border: none;
-    text-align: left;
+    /* text-align: left; */
     height: 350px;
 }
 
@@ -1512,11 +1512,12 @@ h2:after {
 
 
 .wrap_header_tab_skin {
-    left: -334px;
+    left: -333px;
+
 }
 
 .wrap_header_tab_body {
-    left: -525px;
+    left: -526px;
 }
 
 .wrap_header_tab_accessory {
