@@ -308,8 +308,8 @@ array.push(
         './images/nhi-product/gel-rua-mat-tay-trang-2-trong-1-senka-perfect-clear-cleanse-170ml.png',
         'Senka',
         'Còn hàng', [],
-        '199000',
-        '220000', [], [],
+        '199,000',
+        '220,000', [], [],
     ),
     new Product(
         'cham-soc-da',
@@ -319,7 +319,7 @@ array.push(
         './images/nhi-product/nuoc-sua-tay-trang-2-lop-senka-a-l-l-clear-milky-water-230ml.png',
         'Skin1004',
         'Còn hàng', [],
-        '109000',
+        '109,000',
         '119000', [], [],
     ),
     new Product(
@@ -3981,7 +3981,7 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sample-srm-green-tea-foam-innisfree.webp',
         'Innisfree',
         'Còn hàng', [],
-        '9000',
+        '9,000đ',
         '', [], []
     ),
     new Product(
@@ -3992,8 +3992,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/bot-rua-mat-diu-nhe-sense-plus-mild-cleansing-foam.webp',
         'Sense Plus',
         'Còn hàng', [],
-        '149000',
-        '179000', [], []
+        '149,000đ',
+        '179,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4003,8 +4003,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-diu-nhe-senka-perfect-gel-gentle-wash-100g.webp',
         'Senska',
         'Còn hàng', [],
-        '109000',
-        '175000', [], []
+        '109,000đ',
+        '175,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4014,8 +4014,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-la-roche-posay-effaclar-gel-moussant.webp',
         'La Roche-Posay',
         'Còn hàng', [],
-        '449000',
-        '535000', [], []
+        '449,000đ',
+        '535,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4025,8 +4025,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-some-by-mi-bye-bye-blemish-vita-tox-brightening-bubble-cleanser.webp',
         'Some By Mi',
         'Còn hàng', [],
-        '245000',
-        '320000', [], []
+        '245,000đ',
+        '320,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4036,8 +4036,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-va-tam-la-roche-posay-effaclar-micro-peeling-400ml.webp',
         'La Roche-Posay',
         'Còn hàng', [],
-        '469000',
-        '540000', [], []
+        '469,000đ',
+        '540,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4047,8 +4047,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-angel-s-liquid-glutathione-tone-up-deep-pore-wash-cleansing-foam.webp',
         'Angel’s Liquid ',
         'Còn hàng', [],
-        '179000',
-        '250000', [], []
+        '179,000đ',
+        '250,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4058,8 +4058,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-bergamo-150ml.webp',
         'Bergamo',
         'Còn hàng', [],
-        '59000',
-        '99000', [], []
+        '59,000đ',
+        '99,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4069,8 +4069,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-diu-nhe-senka-perfect-gel-gentle-wash-100g.webp',
         'innisfree',
         'Còn hàng', [],
-        '180000',
-        '220000', [], []
+        '180,000đ',
+        '220,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4080,8 +4080,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-chong-lao-hoa-senka-perfect-whip-collagen-in-120g.webp',
         'Senka',
         'Còn hàng', [],
-        '105000',
-        '170000', [], []
+        '105,000đ',
+        '170,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4091,8 +4091,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-d-program-essence-in-cleansing-foam-120gr.webp',
         'D Program',
         'Còn hàng', [],
-        '299000',
-        '390000', [], []
+        '299,000đ',
+        '390,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4102,8 +4102,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-danh-cho-nam-mdoc-blackhead-perfect-scrub-foam-150g.webp',
         'MdoC',
         'Còn hàng', [],
-        '299000',
-        '479000', [], []
+        '299,000đ',
+        '479,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4113,8 +4113,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-danh-cho-nam-mdoc-relief-foam-cleasing-tang-mini-size-bat-ki-voi-chai-full-150gr.webp',
         'MdoC',
         'Còn hàng', [],
-        '299000',
-        '399000', [], []
+        '299,000đ',
+        '399,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4124,8 +4124,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-dat-set-trang-senka-perfect-white-clay-120g.webp',
         'Senka',
         'Còn hàng', [],
-        '99000',
-        '170000', [], []
+        '99,000đ',
+        '170,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4135,8 +4135,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-jeju-volcanic-pore-cleansing-foam-ex-innisfree-new-2020.webp',
         'Innisfree',
         'Còn hàng', [],
-        '145000',
-        '190000', [], []
+        '145,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4146,8 +4146,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-klairs-rich-moist-foaming-cleanser.webp',
         'Klairs',
         'Còn hàng', [],
-        '229000',
-        '270000', [], []
+        '229,000đ',
+        '270,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4157,8 +4157,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-some-by-mi-bye-bye-blemish-vita-tox-brightening-bubble-cleanser.webp',
         ' L-Oreal Paris',
         'Còn hàng', [],
-        '45000',
-        '99000', [], []
+        '45,000đ',
+        '99,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4168,8 +4168,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-low-ph-good-morning-gel-cleanser.webp',
         'Cosrx',
         'Còn hàng', [],
-        '169000',
-        '200000', [], []
+        '169,000đ',
+        '200,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4179,8 +4179,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-angel-s-liquid-glutathione-tone-up-deep-pore-wash-cleansing-foam.webp',
         'Innisfree',
         'Còn hàng', [],
-        '189000',
-        '220000', [], []
+        '189,000đ',
+        '220,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4190,8 +4190,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-muji-face-soap.webp',
         'Muji',
         'Còn hàng', [],
-        '125000',
-        '190000', [], []
+        '125,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4201,8 +4201,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/gel-rua-mat-diu-nhe-senka-perfect-gel-gentle-wash-100g.webp',
         'Naruko',
         'Còn hàng', [],
-        '167000',
-        '200000', [], []
+        '167,000đ',
+        '200,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4212,8 +4212,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-neogen-dermalogy-foam-cleanser.webp',
         'Neogen',
         'Còn hàng', [],
-        '229000',
-        '290000', [], []
+        '229,000đ',
+        '290,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4223,8 +4223,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-ngan-ngua-mun-senka-perfect-whip-acne-care-100g.webp',
         'Senka',
         'Còn hàng', [],
-        '79000',
-        '158000', [], []
+        '79,000đ',
+        '158,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4234,8 +4234,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-secret-key-snail-repairing-foam-cleaner.webp',
         'MdoC',
         'Còn hàng', [],
-        '99000',
-        '160000', [], []
+        '99,000đ',
+        '160,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4245,8 +4245,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-seoulrose-rosa-skincare-centella.webp',
         'Seoul Rose',
         'Còn hàng', [],
-        '195000',
-        '342000', [], []
+        '195,000đ',
+        '342,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4256,8 +4256,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-simple-kind-to-skin-refreshing-facial-wash.webp',
         'Simple',
         'Còn hàng', [],
-        '89000',
-        '150000', [], []
+        '89,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4267,8 +4267,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-derladie-witch-hazel-cleansing-gel-tang-bao-li-xi-tet-2021.webp',
         'Senska',
         'Còn hàng', [],
-        '249000',
-        '300000', [], []
+        '249,000đ',
+        '300,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4278,8 +4278,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-snail-truecica-some-by-mi.webp',
         'Some By Mi',
         'Còn hàng', [],
-        '189000',
-        '260000', [], []
+        '189,000đ',
+        '260,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4289,8 +4289,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-some-by-mi-aha-bha-pha-30-days-miracle-acne-clear-foam.webp',
         'Some By Mi',
         'Còn hàng', [],
-        '189000',
-        '285000', [], []
+        '189,000đ',
+        '285,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4300,8 +4300,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-some-by-mi-bye-bye-blackhead-30-days-miracle-green-tea-tox-bubble-cleanser.webp',
         'Some By Mi',
         'Còn hàng', [],
-        '225000',
-        '320000', [], []
+        '225,000đ',
+        '320,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4311,8 +4311,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-sur-medic-ph-azulene-soothing-ph-cleanser-150ml.webp',
         'Sur.Medic',
         'Còn hàng', [],
-        '199000',
-        '325000', [], []
+        '199,000đ',
+        '325,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4322,8 +4322,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-svr-sebiaclear-gel-moussant.webp',
         'SVR',
         'Còn hàng', [],
-        '129000',
-        '140000', [], []
+        '129,000đ',
+        '140,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4333,8 +4333,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-tao-bot-senka-perfect-whip-120g.webp',
         'Senka',
         'Còn hàng', [],
-        '85000',
-        '150000', [], []
+        '85,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4344,8 +4344,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-tay-trang-the-ordinary-squalane-cleanser.webp',
         'The Ordinary',
         'Còn hàng', [],
-        '245000',
-        '395000', [], []
+        '245,000đ',
+        '395,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4355,8 +4355,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-thai-doc-super-vegitoks-kem-mini-30ml-trong-hop.webp',
         'Byvibes Wonder Bath',
         'Còn hàng', [],
-        '219000',
-        '309000', [], []
+        '219,000đ',
+        '309,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4366,8 +4366,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-the-saem-healing-tea-garden-cleansing-foam.webp',
         'The saem',
         'Còn hàng', [],
-        '120000',
-        '180000', [], []
+        '120,000đ',
+        '180,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4377,8 +4377,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-tra-xanh-innisfree-green-tea-cleasing-foam.webp',
         'Innisfree',
         'Còn hàng', [],
-        '159000',
-        '190000', [], []
+        '159,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4388,8 +4388,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-tra-xanh-rohto-shirochasou.webp',
         'Rohto',
         'Còn hàng', [],
-        '99000',
-        '180000', [], []
+        '99,000đ',
+        '180,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4399,8 +4399,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-tri-mun-caryophy-portulaca-foam-cleanser.webp',
         'Caryophy',
         'Còn hàng', [],
-        '232000',
-        '305000', [], []
+        '232,000đ',
+        '305,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4410,8 +4410,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-y-di-hatomugi.webp',
         'Hatomugi',
         'Còn hàng', [],
-        '69000',
-        '120000', [], []
+        '69,000đ',
+        '120,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4421,8 +4421,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-tay-te-bao-chet-muji-face-soap-scrub.webp',
         'Muji',
         'Còn hàng', [],
-        '138000',
-        '185000', [], []
+        '138,000đ',
+        '185,000đ', [], []
     ),
     new Product(
         'cham-soc-da',
@@ -4432,8 +4432,8 @@ array.push(
         './images/imgHang/skin-care/lam-sach-tay-te-bao-chet/sua-rua-mat-1/sua-rua-mat-innisfree-bija-trouble-facial-foam-innisfree.webp',
         'Innisfree',
         'Còn hàng', [],
-        '139000',
-        '190000', [], []
+        '139,000đ',
+        '190,000đ', [], []
     ),
     //chăm sóc cơ thể
     //thuc-pham-chuc-nang
@@ -4445,8 +4445,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/keo-deo-chewable-hair-vitamins-hairburst.webp',
         'Hairburst',
         'Còn hàng', [],
-        '589000',
-        '629000', [], []
+        '589,000đ',
+        '629,000đ', [], []
     ),
     new Product(
         'body',
@@ -4456,8 +4456,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/thuc-pham-bo-sung-yusachi-collagen-3-in-1.webp',
         'Yusachi',
         'Còn hàng', [],
-        '1,650000',
-        '2000000', [], []
+        '1,650,000đ',
+        '2,000,000đ', [], []
     ),
     new Product(
         'body',
@@ -4467,8 +4467,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/tinh-chat-collagen-luu-dang-bot-secret-x-red-vitality-pomegranate-collagen.webp',
         'Secret: X',
         'Còn hàng', [],
-        '265000',
-        '430000', [], []
+        '265,000đ',
+        '430,000đ', [], []
     ),
     new Product(
         'body',
@@ -4478,8 +4478,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/vien-uong-bo-sung-kem-dhc-nhat-ban.webp',
         'DHC',
         'Còn hàng', [],
-        '120000',
-        '150000', [], []
+        '120,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'body',
@@ -4489,8 +4489,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/vien-uong-bo-sung-nuoc-va-collagen-innerb-aqua-rich.webp',
         'Innerb Aqua Rich',
         'Còn hàng', [],
-        '510000',
-        '720000', [], []
+        '510,000đ',
+        '720,000đ', [], []
     ),
     new Product(
         'body',
@@ -4500,8 +4500,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/vien-uong-bo-sung-vitamin-c-dhc-nhat-ban.webp',
         'DHC',
         'Còn hàng', [],
-        '105000',
-        '150000', [], []
+        '105,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'body',
@@ -4511,8 +4511,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/vien-uong-rau-cu-qua-dhc-nhat-ban.webp',
         'DHC',
         'Còn hàng', [],
-        '285000',
-        '320000', [], []
+        '285,000đ',
+        '320,000đ', [], []
     ),
     new Product(
         'body',
@@ -4522,8 +4522,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/vien-uong-trang-da-dhc-nhat-ban.webp',
         'DHC',
         'Còn hàng', [],
-        '99000',
-        '150000', [], []
+        '99,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'body',
@@ -4533,8 +4533,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/thuc-pham-chuc-nang/vien-uong-vitamin-e-dhc-nhat-ban.webp',
         'DHC',
         'Còn hàng', [],
-        '165000',
-        '230000', [], []
+        '165,000đ',
+        '230,000đ', [], []
     ),
     //dưỡng thể
     new Product(
@@ -4545,8 +4545,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/kem-duong-trang-da-skin-caryophy-glass-skin-in-shower-body-tone-up.webp',
         'Caryophy',
         'Còn hàng', [],
-        '9000',
-        '20000', [], []
+        '9,000đ',
+        '20,000đ', [], []
     ),
     new Product(
         'body',
@@ -4556,8 +4556,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/dau-nong-han-quoc-100ml.webp',
         'Antiphlamine',
         'Còn hàng', [],
-        '75000',
-        '105000', [], []
+        '75,000đ',
+        '105,000đ', [], []
     ),
     new Product(
         'body',
@@ -4567,8 +4567,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/duong-the-nuoc-hoa-victoria-s-secret-236ml.webp',
         'Victorias Secret',
         'Còn hàng', [],
-        '290000',
-        '400000', [], []
+        '290,000đ',
+        '400,000đ', [], []
     ),
     new Product(
         'body',
@@ -4578,8 +4578,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/kem-duong-the-bath-body-works-226g.webp',
         'Bath & Body Works',
         'Còn hàng', [],
-        '259000',
-        '400000', [], []
+        '259,000đ',
+        '400,000đ', [], []
     ),
     new Product(
         'body',
@@ -4589,8 +4589,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/kem-duong-the-st-ives-renewing-moisturizer-collagen-elastin.webp',
         'ST.ives',
         'Còn hàng', [],
-        '119000',
-        '200000', [], []
+        '119,000đ',
+        '200,000đ', [], []
     ),
     new Product(
         'body',
@@ -4600,8 +4600,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/kem-duong-trang-da-skin-caryophy-glass-skin-in-shower-body-tone-up.webp',
         'Caryophy',
         'Còn hàng', [],
-        '469000',
-        '690000', [], []
+        '469,000đ',
+        '690,000đ', [], []
     ),
     new Product(
         'body',
@@ -4611,8 +4611,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/kem-tan-mo-bung-hot-burning-body-gel-missha.webp',
         'Missha',
         'Còn hàng', [],
-        '119000',
-        '180000', [], []
+        '119,000đ',
+        '180,000đ', [], []
     ),
     new Product(
         'body',
@@ -4622,8 +4622,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/sua-duong-the-jm-solution-tone-up-body-lotion.webp',
         'JM Solution',
         'Còn hàng', [],
-        '249000',
-        '420000', [], []
+        '249,000đ',
+        '420,000đ', [], []
     ),
     new Product(
         'body',
@@ -4633,8 +4633,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/sua-duong-the-vaseline.webp',
         'Vaseline',
         'Còn hàng', [],
-        '135000',
-        '210000', [], []
+        '135,000đ',
+        '210,000đ', [], []
     ),
     new Product(
         'body',
@@ -4644,8 +4644,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/sua-duong-trang-da-chateau-rouge-beauty-milk-400ml.webp',
         'Chateau Rouge',
         'Còn hàng', [],
-        '315000',
-        '550000', [], []
+        '315,000đ',
+        '550,000đ', [], []
     ),
     new Product(
         'body',
@@ -4655,8 +4655,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/sua-duong-trang-da-chateau-rouge-beauty-milk.webp',
         'Chateau Rouge',
         'Còn hàng', [],
-        '440000',
-        '750000', [], []
+        '440,000đ',
+        '750,000đ', [], []
     ),
     new Product(
         'body',
@@ -4666,8 +4666,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/duong-the/su-a-duo-ng-the-bath-body-works-body-lotion.webp',
         'Bath & Body Works',
         'Còn hàng', [],
-        '259000',
-        '400000', [], []
+        '259,000đ',
+        '400,000đ', [], []
     ),
     //sữa tắm
     new Product(
@@ -4678,8 +4678,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/bot-tam-mem-min-sense-plus-moisture-body-cleansing-foam.webp',
         'Sense Plus',
         'Còn hàng', [],
-        '139000',
-        '165000', [], []
+        '139,000đ',
+        '165,000đ', [], []
     ),
     new Product(
         'body',
@@ -4689,8 +4689,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-cottage.webp',
         'À la mode paris',
         'Còn hàng', [],
-        '165000',
-        '190000', [], []
+        '165,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'body',
@@ -4700,8 +4700,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-duong-am-huong-hoa-hong-hoa-nhai-senka-perfect-whip-for-body-500ml.webp',
         'Senka',
         'Còn hàng', [],
-        '149000',
-        '159000', [], []
+        '149,000đ',
+        '159,000đ', [], []
     ),
     new Product(
         'body',
@@ -4711,8 +4711,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-duong-am-senka-perfect-bubble-for-body-500ml.webp',
         'Senka',
         'Còn hàng', [],
-        '149000',
-        '159000', [], []
+        '149,000đ',
+        '159,000đ', [], []
     ),
     new Product(
         'body',
@@ -4722,8 +4722,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-duong-da-happy-bath-900g.webp',
         'Happy Bath',
         'Còn hàng', [],
-        '135000',
-        '290000', [], []
+        '135,000đ',
+        '290,000đ', [], []
     ),
     new Product(
         'body',
@@ -4733,8 +4733,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-duong-trang-jm-solution-shower-tone-up-cream.webp',
         'JM Solution',
         'Còn hàng', [],
-        '310000',
-        '400000', [], []
+        '310,000đ',
+        '400,000đ', [], []
     ),
     new Product(
         'body',
@@ -4755,8 +4755,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-tree-hut-shea-moisturizing-body-wash.webp',
         'Tree Hut',
         'Còn hàng', [],
-        '229000',
-        '278000', [], []
+        '229,000đ',
+        '278,000đ', [], []
     ),
     new Product(
         'body',
@@ -4766,8 +4766,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-truyen-trang-medifferent-in-shower-tone-up-cream.webp',
         'Medifferent',
         'Còn hàng', [],
-        '310000',
-        '360000', [], []
+        '310,000đ',
+        '360,000đ', [], []
     ),
     new Product(
         'body',
@@ -4777,8 +4777,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/sua-tam-white-conc-body-shampoo-c-ii.webp',
         'White Conc',
         'Còn hàng', [],
-        '220000',
-        '230000', [], []
+        '220,000đ',
+        '230,000đ', [], []
     ),
     new Product(
         'body',
@@ -4788,8 +4788,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/xa-phong-derladie-body-cleansing-bar-for-blemish-skin.webp',
         'Derladie',
         'Còn hàng', [],
-        '102000',
-        '145000', [], []
+        '102,000đ',
+        '145,000đ', [], []
     ),
     new Product(
         'body',
@@ -4799,8 +4799,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/xa-phong-tri-mun-lung-for-back.webp',
         'Pelican',
         'Còn hàng', [],
-        '95000',
-        '140000', [], []
+        '95,000đ',
+        '140,000đ', [], []
     ),
     new Product(
         'body',
@@ -4810,8 +4810,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/sua-tam/xa-phong-tri-tham-mong-nhat-pelican-hip-care-soap.webp',
         'Pelican',
         'Còn hàng', [],
-        '109000',
-        '170000', [], []
+        '109,000đ',
+        '170,000đ', [], []
     ),
     //khử mùi
     new Product(
@@ -4822,8 +4822,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/khu-mui/lan-khu-mui-angel-s-liquid-glutathione-niacinamide-fresh-deodorant.webp',
         'Angel.s Liquid',
         'Còn hàng', [],
-        '369000',
-        '400000', [], []
+        '369,000đ',
+        '400,000đ', [], []
     ),
     new Product(
         'body',
@@ -4833,8 +4833,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/khu-mui/lan-khu-mui-etiaxil-mau-moi.webp',
         'Etiaxil',
         'Còn hàng', [],
-        '185000',
-        '240000', [], []
+        '185,000đ',
+        '240,000đ', [], []
     ),
     new Product(
         'body',
@@ -4844,8 +4844,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/khu-mui/lan-khu-mui-perspirex.webp',
         'Perspirex',
         'Còn hàng', [],
-        '175000',
-        '250000', [], []
+        '175,000đ',
+        '250,000đ', [], []
     ),
     new Product(
         'body',
@@ -4855,8 +4855,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/khu-mui/lan-khu-mui-vichy-50ml.webp',
         'Vichy',
         'Còn hàng', [],
-        '196000',
-        '290000', [], []
+        '196,000đ',
+        '290,000đ', [], []
     ),
     new Product(
         'body',
@@ -4866,7 +4866,7 @@ array.push(
         './images/imgHang/body-care/duong-da-body/khu-mui/xit-thom-mat-vung-kin-femfresh.webp',
         'Femfresh',
         'Còn hàng', [],
-        '185000',
+        '185,000đ',
         '', [], []
     ),
     //chăm soc răng miệng
@@ -4878,8 +4878,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/cham-soc-rang-mieng/kem-danh-rang-eucryl.webp',
         'Eucryl',
         'Còn hàng', [],
-        '49000',
-        '80000', [], []
+        '49,000đ',
+        '80,000đ', [], []
     ),
     new Product(
         'body-care',
@@ -4889,8 +4889,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/cham-soc-rang-mieng/kem-danh-rang-median-dental-iq-93.webp',
         'Median',
         'Còn hàng', [],
-        '45000',
-        '70000', [], []
+        '45,000đ',
+        '70,000đ', [], []
     ),
     // tẩy tế bào chết
     new Product(
@@ -4901,8 +4901,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/tay-te-bao-chet/tay-da-chet-co-the-cocoon-ca-phe-dak-lak.webp',
         'Cocoon',
         'Còn hàng', [],
-        '115000',
-        '140000', [], []
+        '115,000đ',
+        '140,000đ', [], []
     ),
     new Product(
         'body',
@@ -4912,8 +4912,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/tay-te-bao-chet/tay-te-bao-chet-gel-scrub-que-hoi-coffee-cinnamon-cloves.webp',
         'Krasota',
         'Còn hàng', [],
-        '85000',
-        '150000', [], []
+        '85,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'body',
@@ -4923,8 +4923,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/tay-te-bao-chet/tay-te-bao-chet-toan-than-byphasse-exfoliant-body.webp',
         'Byphasse',
         'Còn hàng', [],
-        '119000',
-        '199000', [], []
+        '119,000đ',
+        '199,000đ', [], []
     ),
     new Product(
         'body',
@@ -4934,8 +4934,8 @@ array.push(
         './images/imgHang/body-care/duong-da-body/tay-te-bao-chet/tay-te-bao-chet-toan-than-organic-shop.webp',
         'Organic Shop',
         'Còn hàng', [],
-        '85000',
-        '150000', [], []
+        '85,000đ',
+        '150,000đ', [], []
     ),
     // chăm sóc tóc
     // dầu gội xã
@@ -4947,8 +4947,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/dau-goi-xa/bo-goi-xa-gung-thao-moc-weilaiya-tang-kem-set-mini-20ml.webp',
         'Weilaiya',
         'Còn hàng', [],
-        '488000',
-        '680000', [], []
+        '488,000đ',
+        '680,000đ', [], []
     ),
     new Product(
         'body',
@@ -4958,8 +4958,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/dau-goi-xa/bo-goi-xa-hairburst.webp',
         'Hairburst',
         'Còn hàng', [],
-        '589000',
-        '750000', [], []
+        '589,000đ',
+        '750,000đ', [], []
     ),
     new Product(
         'body',
@@ -4969,8 +4969,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/dau-goi-xa/cap-dau-goi-xa-tigi.webp',
         'Weilaiya',
         'Còn hàng', [],
-        '399000',
-        '690000', [], []
+        '399,000đ',
+        '690,000đ', [], []
     ),
     new Product(
         'body',
@@ -4980,8 +4980,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/dau-goi-xa/dau-goi-kho-girlz-only.webp',
         'Girlz Only',
         'Còn hàng', [],
-        '92000',
-        '140000', [], []
+        '92,000đ',
+        '140,000đ', [], []
     ),
     new Product(
         'body',
@@ -4991,8 +4991,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/dau-goi-xa/bo-doi-goi-xa-duong-toc-bong-muot-premium-moist-tsubaki-mau-do.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '159000',
-        '199000', [], []
+        '159,000đ',
+        '199,000đ', [], []
     ),
     new Product(
         'body',
@@ -5002,8 +5002,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/dau-goi-xa/dau-goi-xa-phuc-hoi-ngan-rung-toc-tsubaki-premium-repair-490ml-mau-vang.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '159000',
-        '199000', [], []
+        '159,000đ',
+        '199,000đ', [], []
     ),
     //dưỡng tóc
     new Product(
@@ -5014,8 +5014,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/dau-duong-toc-argan-oil-of-morocco-natural-world-100ml.webp',
         'Natural World',
         'Còn hàng', [],
-        '115000',
-        '180000', [], []
+        '115,000đ',
+        '180,000đ', [], []
     ),
     new Product(
         'body',
@@ -5025,8 +5025,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/dau-duong-toc-argan-oil-of-morocco-natural-world-25ml.webp',
         'Natural World',
         'Còn hàng', [],
-        '58000',
-        '100000', [], []
+        '58,000đ',
+        '100,000đ', [], []
     ),
     new Product(
         'body',
@@ -5036,8 +5036,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/dau-duong-toc-phuc-hoi-hu-ton-tsubaki-oil-perfection-hair-oil-50ml.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '229000',
-        '289000', [], []
+        '229,000đ',
+        '289,000đ', [], []
     ),
     new Product(
         'body',
@@ -5047,8 +5047,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/duong-toc-miseen.webp',
         'Miseen Scene',
         'Còn hàng', [],
-        '159000',
-        '170000', [], []
+        '159,000đ',
+        '170,000đ', [], []
     ),
     new Product(
         'body',
@@ -5058,7 +5058,7 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/mat-na-toc-tsubaki-premium-repair-mask-180g.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '199000',
+        '199,000đ',
         '', [], []
     ),
     new Product(
@@ -5069,8 +5069,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/nuoc-duong-toc-tinh-dau-buoi-cocoon-pomelo-hair-tonic.webp',
         'Cocoon',
         'Còn hàng', [],
-        '130000',
-        '160000', [], []
+        '130,000đ',
+        '160,000đ', [], []
     ),
     new Product(
         'body',
@@ -5080,8 +5080,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/tinh-chat-duong-toc-guerisson-damage-control-hair-essence.webp',
         'Guerisson',
         'Còn hàng', [],
-        '105000',
-        '150000', [], []
+        '105,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'body',
@@ -5091,8 +5091,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/tinh-dau-duong-toc-argan-hair-oil-r3-raip.webp',
         'R3R',
         'Còn hàng', [],
-        '85000',
-        '130000', [], []
+        '85,000đ',
+        '130,000đ', [], []
     ),
     new Product(
         'body',
@@ -5102,8 +5102,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/xit-duong-toc-hairburst-volume-growth-elixir-125ml-tang-dau-goi-kho-girlzonly-mau-bat-ki.webp',
         'Hairburst',
         'Còn hàng', [],
-        '589000',
-        '980000', [], []
+        '589,000đ',
+        '980,000đ', [], []
     ),
     new Product(
         'body',
@@ -5113,8 +5113,8 @@ array.push(
         './images/imgHang/body-care/cham-soc-toc/duong-toc/xit-duong-toc-phuc-hoi-hu-ton-tsubaki-premium-repair-hair-water-220ml.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '145000',
-        '179000', [], []
+        '145,000đ',
+        '179,000đ', [], []
     ),
     // phụ kiện
     //phụ kiện makeup
@@ -5126,8 +5126,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/bo-co-trang-diem-12-cay.webp',
         'Cỏ Cosmetics',
         'Còn hàng', [],
-        '45000',
-        '75000', [], []
+        '45,000đ',
+        '75,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5137,8 +5137,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/bo-co-trang-diem-mini-7-cay-tho-hong.webp',
         'Cỏ Cosmetics',
         'Còn hàng', [],
-        '30000',
-        '55000', [], []
+        '30,000đ',
+        '55,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5148,8 +5148,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/bo-co-vacosi-my-darling-6-cay-mau-do.webp',
         'Vacosi',
         'Còn hàng', [],
-        '125000',
-        '180000', [], []
+        '125,000đ',
+        '180,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5159,8 +5159,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-mut-tan-phan-mat-vacosi.webp',
         'Vacosi',
         'Còn hàng', [],
-        '4000',
-        '5000', [], []
+        '4,000đ',
+        '5,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5170,8 +5170,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-e04.webp',
         'Vacosi',
         'Còn hàng', [],
-        '38000',
-        '65000', [], []
+        '38,000đ',
+        '65,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5181,8 +5181,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-e2e.webp',
         'Vacosi',
         'Còn hàng', [],
-        '38000',
-        '65000', [], []
+        '38,000đ',
+        '65,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5192,8 +5192,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-f03.webp',
         'Vacosi',
         'Còn hàng', [],
-        '69000',
-        '115000', [], []
+        '69,000đ',
+        '115,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5203,8 +5203,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-f04.webp',
         'Vacosi',
         'Còn hàng', [],
-        '69000',
-        '80000', [], []
+        '69,000đ',
+        '80,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5214,8 +5214,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-f06.webp',
         'Vacosi',
         'Còn hàng', [],
-        '45000',
-        '65000', [], []
+        '45,000đ',
+        '65,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5225,8 +5225,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-l02.webp',
         'Vacosi',
         'Còn hàng', [],
-        '30000',
-        '60000', [], []
+        '30,000đ',
+        '60,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5236,8 +5236,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-m05.webp',
         'Vacosi',
         'Còn hàng', [],
-        '55000',
-        '91000', [], []
+        '55,000đ',
+        '91,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5247,8 +5247,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-m09.webp',
         'Vacosi',
         'Còn hàng', [],
-        '69000',
-        '115000', [], []
+        '69,000đ',
+        '115,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5258,8 +5258,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-m17.webp',
         'Vacosi',
         'Còn hàng', [],
-        '65000',
-        '80000', [], []
+        '65,000đ',
+        '80,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5269,8 +5269,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-m21.webp',
         'Vacosi',
         'Còn hàng', [],
-        '65000',
-        '108000', [], []
+        '65,000đ',
+        '108,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5280,8 +5280,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-trang-diem-vacosi-m24.webp',
         'Vacosi',
         'Còn hàng', [],
-        '52000',
-        '85000', [], []
+        '52,000đ',
+        '85,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5291,8 +5291,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-vacosi-m10.webp',
         'Vacosi',
         'Còn hàng', [],
-        '65000',
-        '85000', [], []
+        '65,000đ',
+        '85,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5302,8 +5302,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/co-trang-diem/co-vien-dau-dep-manh-vacosi-flat-line-brush-e17.webp',
         'Vacosi',
         'Còn hàng', [],
-        '39000',
-        '42000', [], []
+        '39,000đ',
+        '42,000đ', [], []
     ),
     //phụ kiện mi
     new Product(
@@ -5314,8 +5314,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/phu-kien-mi/bam-mi-can-den-vacosi-morden-lash-curler.webp',
         'Vacosi',
         'Còn hàng', [],
-        '45000',
-        '55000', [], []
+        '45,000đ',
+        '55,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5325,8 +5325,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/phu-kien-mi/keo-dan-mi-vacosi-eyelash-3d-primer.webp',
         'Vacosi',
         'Còn hàng', [],
-        '52000',
-        '80000', [], []
+        '52,000đ',
+        '80,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5336,8 +5336,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/phu-kien-mi/long-mi-gia-vacosi-4d-pro-eyelashes.webp',
         'Vacosi',
         'Còn hàng', [],
-        '53000',
-        '80000', [], []
+        '53,000đ',
+        '80,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5347,8 +5347,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/phu-kien-mi/mieng-dan-kich-mi-vacosi-eyelid-tape.webp',
         'Vacosi',
         'Còn hàng', [],
-        '46000',
-        '80000', [], []
+        '46,000đ',
+        '80,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5358,8 +5358,8 @@ array.push(
         './images/imgHang/accessory/accessory-makeup/phu-kien-mi/mieng-dan-mi-luoi-vacosi-invisible-fiber-tape-vm16-120-mieng-hop.webp',
         'Vacosi',
         'Còn hàng', [],
-        '52000',
-        '85000', [], []
+        '52,000đ',
+        '85,000đ', [], []
     ),
     //phụ kiện cá nhân
     //phụ kiện phòng tắm
@@ -5371,8 +5371,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bang-do-no-co-vien-ren.webp',
         'No Brand',
         'Còn hàng', [],
-        '25000',
-        '35000', [], []
+        '25,000đ',
+        '35,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5382,8 +5382,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bang-do-rua-mat-no-cool.webp',
         'No Brand',
         'Còn hàng', [],
-        '25000',
-        '35000', [], []
+        '25,000đ',
+        '35,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5393,8 +5393,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bang-do-no-line-friends.webp',
         'No Brand',
         'Còn hàng', [],
-        '25000',
-        '55000', [], []
+        '25,000đ',
+        '55,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5404,8 +5404,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bang-do-rua-mat-tai-tho-ca-rot.webp',
         'No Brand',
         'Còn hàng', [],
-        '25000',
-        '35000', [], []
+        '25,000đ',
+        '35,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5415,8 +5415,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bang-do-tai-tho.webp',
         'No Brand',
         'Còn hàng', [],
-        '25000',
-        '45000', [], []
+        '25,000đ',
+        '45,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5426,8 +5426,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bo-chiet-my-pham.webp',
         'No Brand',
         'Còn hàng', [],
-        '55000',
-        '70000', [], []
+        '55,000đ',
+        '70,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5437,7 +5437,7 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bong-phan-ho-lo-vacosi-pear-blender-bp06.webp',
         'Vacosi',
         'Còn hàng', [],
-        '35000',
+        '35,000đ',
         '', [], []
     ),
     new Product(
@@ -5448,7 +5448,7 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bong-phan-tron-vacosi.webp',
         'Vacosi',
         'Còn hàng', [],
-        '15000',
+        '15,000đ',
         '', [], []
     ),
     new Product(
@@ -5459,7 +5459,7 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/bong-cushion-vacosi.webp',
         'Vacosi',
         'Còn hàng', [],
-        '18000',
+        '18,000đ',
         '', [], []
     ),
     new Product(
@@ -5481,8 +5481,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/dao-cao-may-ailin.webp',
         'Cỏ Cosmetics',
         'Còn hàng', [],
-        '8000',
-        '14000', [], []
+        '8,000đ',
+        '14,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5492,8 +5492,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/dao-cao-tia-long-may-nalamei.webp',
         'Nalamei',
         'Còn hàng', [],
-        '12000',
-        '25000', [], []
+        '12,000đ',
+        '25,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5503,8 +5503,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/dao-cao-tia-long-may-vacosi-eyebrow-knife-dc06.webp',
         'Vacosi',
         'Còn hàng', [],
-        '35000',
-        '49000', [], []
+        '35,000đ',
+        '49,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5514,8 +5514,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/dung-cu-rua-mat-vacosi-natural-studio-boover-cleanser-hinh-bach-tuoc.webp',
         'Vacosi',
         'Còn hàng', [],
-        '46000',
-        '68000', [], []
+        '46,000đ',
+        '68,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5525,8 +5525,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/guong-mini-kem-luoc.webp',
         'Cỏ Cosmetics',
         'Còn hàng', [],
-        '15000',
-        '25000', [], []
+        '15,000đ',
+        '25,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5536,8 +5536,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/chai-chiet-my-pham.webp',
         'Loven',
         'Còn hàng', [],
-        '42000',
-        '70000', [], []
+        '42,000đ',
+        '70,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5547,8 +5547,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/mieng-rua-mat-vacosi-accessories-beauty-tool-series.webp',
         'Vacosi',
         'Còn hàng', [],
-        '35000',
-        '40000', [], []
+        '35,000đ',
+        '40,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5558,8 +5558,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/mut-tan-real-techniques-limited-edition.webp',
         'Real Techniques',
         'Còn hàng', [],
-        '119000',
-        '189000', [], []
+        '119,000đ',
+        '189,000đ', [], []
     ), new Product(
         'phu-kien',
         'phu-kien-ca-nhan',
@@ -5568,8 +5568,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/mut-tan-tam-giac-3-mieng-vacosi.webp',
         'Vacosi',
         'Còn hàng', [],
-        '15000',
-        '25000', [], []
+        '15,000đ',
+        '25,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5579,8 +5579,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/tui-dung-my-pham-travel-multi-pouch.webp',
         'No Brand',
         'Còn hàng', [],
-        '39000',
-        '59000', [], []
+        '39,000đ',
+        '59,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5590,8 +5590,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-phong-tam/tui-dung-my-pham-washbag.webp',
         'Washbag',
         'Còn hàng', [],
-        '39000',
-        '45000', [], []
+        '39,000đ',
+        '45,000đ', [], []
     ),
     //phụ kiện cá nhân
     //phụ kiện cá nhân
@@ -5603,8 +5603,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-ca-nhan/bam-mong-tay-vacosi.webp',
         'Vacosi',
         'Còn hàng', [],
-        '35000',
-        '60000', [], []
+        '35,000đ',
+        '60,000đ', [], []
     ),
     new Product(
         'phu-kien',
@@ -5614,8 +5614,8 @@ array.push(
         './images/imgHang/accessory/accessory-personal/phu-kien-ca-nhan/cay-nan-mun-vacosi-nm01-1.webp',
         'Vacosi',
         'Còn hàng', [],
-        '15000',
-        '20000', [], []
+        '15,000đ',
+        '20,000đ', [], []
     ),
 
     //cho nam
@@ -5627,8 +5627,8 @@ array.push(
         './images/imgHang/man/cham-mun-danh-cho-nam-mdoc-ac-solution-powder-spot-15ml.webp',
         'MdoC',
         'Còn hàng', [],
-        '319000',
-        '439000', [], []
+        '319,000đ',
+        '439,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5638,8 +5638,8 @@ array.push(
         './images/imgHang/man/kem-duong-da-ban-dem-danh-cho-nam-mdoc-night-effects-whitening-gel-100g.webp',
         'MdoC',
         'Còn hàng', [],
-        '549000',
-        '729000', [], []
+        '549,000đ',
+        '729,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5649,8 +5649,8 @@ array.push(
         './images/imgHang/man/kem-duong-trang-mdoc-whitening-tone-up-cream-50-ml.webp',
         'MdoC',
         'Còn hàng', [],
-        '499000',
-        '719000', [], []
+        '499,000đ',
+        '719,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5660,8 +5660,8 @@ array.push(
         './images/imgHang/man/lotion-duong-trang-danh-cho-nam-mdoc-whitening-skin-lotion.webp',
         'MdoC',
         'Còn hàng', [],
-        '615000',
-        '749000', [], []
+        '615,000đ',
+        '749,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5671,8 +5671,8 @@ array.push(
         './images/imgHang/man/nuoc-hoa-hong-danh-cho-nam-mdoc-sebum-strike-toner.webp',
         'MdoC',
         'Còn hàng', [],
-        '469000',
-        '659000', [], []
+        '469,000đ',
+        '659,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5682,8 +5682,8 @@ array.push(
         './images/imgHang/man/nuoc-hoa-danh-cho-nam-gucci-guilty-pour-homme-adt-15ml.webp',
         'Gucci',
         'Còn hàng', [],
-        '560000',
-        '750000', [], []
+        '560,000đ',
+        '750,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5693,8 +5693,8 @@ array.push(
         './images/imgHang/man/serum-duong-da-danh-cho-nam-mdoc-sebum-strike-serum.webp',
         'MdoC',
         'Còn hàng', [],
-        '499000',
-        '669000', [], []
+        '499,000đ',
+        '669,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5704,8 +5704,8 @@ array.push(
         './images/imgHang/man/sua-rua-mat-danh-cho-nam-mdoc-blackhead-perfect-scrub-foam-150g.webp',
         'MdoC',
         'Còn hàng', [],
-        '299000',
-        '479000', [], []
+        '299,000đ',
+        '479,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5715,8 +5715,8 @@ array.push(
         './images/imgHang/man/sua-rua-mat-danh-cho-nam-mdoc-relief-foam-cleasing-tang-mini-size-bat-ki-voi-chai-full-150gr.webp',
         'MdoC',
         'Còn hàng', [],
-        '299000',
-        '399000', [], []
+        '299,000đ',
+        '399,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5726,8 +5726,8 @@ array.push(
         './images/imgHang/man/tinh-chat-chong-nang-danh-cho-nam-mdoc-sunshine-uv-solution-essence-50ml.webp',
         'MdoC',
         'Còn hàng', [],
-        '539000',
-        '659000', [], []
+        '539,000đ',
+        '659,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5737,8 +5737,8 @@ array.push(
         './images/imgHang/man/tinh-chat-duong-trang-danh-cho-nam-mdoc-whitening-essence-100ml.webp',
         'MdoC',
         'Còn hàng', [],
-        '569000',
-        '749000', [], []
+        '569,000đ',
+        '749,000đ', [], []
     ),
     new Product(
         'cho-nam',
@@ -5748,8 +5748,8 @@ array.push(
         './images/imgHang/man/tinh-chat-thu-gon-lo-chan-long-danh-cho-nam-mdoc-skin-pore-tightener-2-0.webp',
         'MdoC',
         'Còn hàng', [],
-        '429000',
-        '619000', [], []
+        '429,000đ',
+        '619,000đ', [], []
     ),
     //nước hoa
     new Product(
@@ -5760,8 +5760,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-danh-cho-nam-gucci-guilty-pour-homme-adt-15ml.webp',
         'Gucci',
         'Còn hàng', [],
-        '560000',
-        '750000', [], []
+        '560,000đ',
+        '750,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5771,8 +5771,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-danh-cho-nu-gucci-guilty-pour-femme-edp-15ml.webp',
         'Gucci',
         'Còn hàng', [],
-        '590000',
-        '750000', [], []
+        '590,000đ',
+        '750,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5782,8 +5782,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-miss-dior-mini-5ml.webp',
         'Dior',
         'Còn hàng', [],
-        '158000',
-        '220000', [], []
+        '158,000đ',
+        '220,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5793,8 +5793,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-gucci-bloom-profumo-di-fiori-vang.webp',
         'Gucci',
         'Còn hàng', [],
-        '310000',
-        '470000', [], []
+        '310,000đ',
+        '470,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5804,8 +5804,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-miss-dior-mini-5ml.webp',
         'Dior',
         'Còn hàng', [],
-        '158000',
-        '220000', [], []
+        '158,000đ',
+        '220,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5815,8 +5815,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nam-212-men-sexy-carolina-herrera-edt-100ml.webp',
         'Carolina Herrera',
         'Còn hàng', [],
-        '1,380000',
-        '1,850000', [], []
+        '1,380,000đ',
+        '1,850,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5826,8 +5826,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nam-chanel-bleu-de-chanel-edp-100ml.webp',
         'Chanel',
         'Còn hàng', [],
-        '3,800000',
-        '4,500000', [], []
+        '3,800,000đ',
+        '4,500,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5837,8 +5837,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nam-dolce-gabbana-light-blue-pour-homme-edt-mini-4-5ml.webp',
         'Dolce & Gabbana',
         'Còn hàng', [],
-        '219000',
-        '300000', [], []
+        '219,000đ',
+        '300,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5848,8 +5848,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nam-hugo-boss-man-edt-125ml.webp',
         'Hugo Boss',
         'Còn hàng', [],
-        '830000',
-        '1,200000', [], []
+        '830,000đ',
+        '1,200,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5859,8 +5859,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nam-mr-burberry-edp-mini-2ml.webp',
         'MR.Burberry',
         'Còn hàng', [],
-        '45000',
-        '52000', [], []
+        '45,000đ',
+        '52,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5870,8 +5870,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nam-versace-dylan-blue-pour-homme-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '119000',
-        '180000', [], []
+        '119,000đ',
+        '180,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5881,8 +5881,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-armaf-club-de-nuit-woman-edp.webp',
         'Armaf',
         'Còn hàng', [],
-        '799000',
-        '1,039000', [], []
+        '799,000đ',
+        '1,039,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5892,8 +5892,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-dolce-gabbana-the-one-edp-75ml.webp',
         'Dolce & Gabbana',
         'Còn hàng', [],
-        '229000',
-        '499000', [], []
+        '229,000đ',
+        '499,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5903,8 +5903,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-flower-by-kenzo-edp.webp',
         'Kenzo',
         'Còn hàng', [],
-        '159000',
-        '209000', [], []
+        '159,000đ',
+        '209,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5914,8 +5914,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-flower-by-kenzo-edp.webp',
         'Gucci',
         'Còn hàng', [],
-        '439000',
-        '525000', [], []
+        '439,000đ',
+        '525,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5925,8 +5925,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-moschino-toy-2-edp.webp',
         'Moschino',
         'Còn hàng', [],
-        '175000',
-        '390000', [], []
+        '175,000đ',
+        '390,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5936,8 +5936,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-narciso-rodriguez-pure-musc-mini-4ml.webp',
         'Narciso Rodriguez',
         'Còn hàng', [],
-        '208000',
-        '300000', [], []
+        '208,000đ',
+        '300,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5947,8 +5947,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-paleta-perfume.webp',
         'Paleta',
         'Còn hàng', [],
-        '146000',
-        '220000', [], []
+        '146,000đ',
+        '220,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5958,7 +5958,7 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-moschino-toy-2-edp.webp',
         'Versace',
         'Còn hàng', [],
-        '1,290000',
+        '1,290,000đ',
         '', [], []
     ),
     new Product(
@@ -5969,8 +5969,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-versace-crystal-noir-edt-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '119000',
-        '190000', [], []
+        '119,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5980,8 +5980,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-versace-yellow-diamond-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '140000',
-        '220000', [], []
+        '140,000đ',
+        '220,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -5991,8 +5991,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-nu-versace-crystal-noir-edt-mini-5ml.webp',
         'Perfume Holic',
         'Còn hàng', [],
-        '225000',
-        '380000', [], []
+        '225,000đ',
+        '380,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6002,8 +6002,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-versace-bright-crystal-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '139000',
-        '200000', [], []
+        '139,000đ',
+        '200,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6013,8 +6013,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-versace-bright-crystal-absolu-mini-5ml.webp',
         'Perfume Holic',
         'Còn hàng', [],
-        '190000',
-        '250000', [], []
+        '190,000đ',
+        '250,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6024,8 +6024,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-versace-dylan-blue-pour-femme-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '155000',
-        '260000', [], []
+        '155,000đ',
+        '260,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6035,8 +6035,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-versace-eros-for-men-edt-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '115000',
-        '190000', [], []
+        '115,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6046,8 +6046,8 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-versace-pour-homme-mini-5ml.webp',
         'Versace',
         'Còn hàng', [],
-        '115000',
-        '200000', [], []
+        '115,000đ',
+        '200,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6057,7 +6057,7 @@ array.push(
         './images/imgHang/perfume/nuoc-hoa-vung-kin-re-p-natural-herb-inner-balance-5ml.webp',
         'Re:p',
         'Còn hàng', [],
-        '399000',
+        '399,000đ',
         '', [], []
     ),
     new Product(
@@ -6068,8 +6068,8 @@ array.push(
         './images/imgHang/perfume/xit-thom-quan-ao-fabric-perfume.webp',
         'Fabric',
         'Còn hàng', [],
-        '82000',
-        '150000', [], []
+        '82,000đ',
+        '150,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6079,8 +6079,8 @@ array.push(
         './images/imgHang/perfume/xit-thom-toan-than-body-bath-body-works-fragrance-mist.webp',
         'Bath & Body Works',
         'Còn hàng', [],
-        '259000',
-        '400000', [], []
+        '259,000đ',
+        '400,000đ', [], []
     ),
     new Product(
         'nuoc-hoa-1',
@@ -6090,8 +6090,8 @@ array.push(
         './images/imgHang/perfume/xit-thom-victoria-s-secret-fragrance-mist.webp',
         'Victoria.s Secret',
         'Còn hàng', [],
-        '290000',
-        '450000', [], []
+        '290,000đ',
+        '450,000đ', [], []
     ),
     //săn quà
     new Product(
@@ -6102,8 +6102,8 @@ array.push(
         './images/imgHang/gitf/huyet-thanh-derladie-tri-mun_e60a2f760beb4086932387d2d909e131_large.webp',
         'Derladie',
         'Còn hàng', [],
-        '399000',
-        '630000', [], []
+        '399,000đ',
+        '630,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6113,8 +6113,8 @@ array.push(
         './images/imgHang/gitf/nuoc-can-bang-duong-am-senka-deep-moist-lotion-i.webp',
         'Senka',
         'Còn hàng', [],
-        '169000',
-        '300000', [], []
+        '169,000đ',
+        '300,000đ', [], []
     ),
 
     new Product(
@@ -6125,8 +6125,8 @@ array.push(
         './images/imgHang/gitf/gel-rua-mat-tay-trang-2-trong-1-senka-perfect-clear-cleanse-170ml.webp',
         'Senka',
         'Còn hàng', [],
-        '199000',
-        '220000', [], []
+        '199,000đ',
+        '220,000đ', [], []
     ),
 
     new Product(
@@ -6137,8 +6137,8 @@ array.push(
         './images/imgHang/gitf/dau-tay-trang-senka-a-l-l-clear-oil.webp',
         'Senka',
         'Còn hàng', [],
-        '259000',
-        '420000', [], []
+        '259,000đ',
+        '420,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6148,8 +6148,8 @@ array.push(
         './images/imgHang/gitf/kem-duong-trang-da-nang-tong-3-trong-1-senka-white-beauty-cream-100gr.webp',
         'Senka',
         'Còn hàng', [],
-        '265000',
-        '290000', [], []
+        '265,000đ',
+        '290,000đ', [], []
     ),
 
     new Product(
@@ -6160,8 +6160,8 @@ array.push(
         './images/imgHang/gitf/kem-duong-da-ban-ngay-senka-white-beauty-glow-uv-cream-50g.webp',
         'Senka',
         'Còn hàng', [],
-        '229000',
-        '370000', [], []
+        '229,000đ',
+        '370,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6171,8 +6171,8 @@ array.push(
         './images/imgHang/gitf/gel-sua-chong-nang-senka-perfect-uv-gel-80ml-1.webp',
         'Senka',
         'Còn hàng', [],
-        '175000',
-        '190000', [], []
+        '175,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6182,8 +6182,8 @@ array.push(
         './images/imgHang/gitf/cc-serum-trang-da-senka-white-beauty-serum-in-cc-40gr.webp',
         'Senka',
         'Còn hàng', [],
-        '179000',
-        '205000', [], []
+        '179,000đ',
+        '205,000đ', [], []
     ),
 
     new Product(
@@ -6194,8 +6194,8 @@ array.push(
         './images/imgHang/gitf/sua-chong-nang-anessa-mild-milk-60ml.webp',
         'Anessa',
         'Còn hàng', [],
-        '499000',
-        '685000', [], []
+        '499,000đ',
+        '685,000đ', [], []
     ),
 
     new Product(
@@ -6206,8 +6206,8 @@ array.push(
         './images/imgHang/gitf/sua-chong-nang-anessa-perfect-uv-suncreen-skincare-milk-a-60ml.webp',
         'Anessa',
         'Còn hàng', [],
-        '525000',
-        '685000', [], []
+        '525,000đ',
+        '685,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6217,8 +6217,8 @@ array.push(
         './images/imgHang/gitf/kem-chong-nang-anessa.webp',
         'Anessa',
         'Còn hàng', [],
-        '419000',
-        '550000', [], []
+        '419,000đ',
+        '550,000đ', [], []
     ),
 
     new Product(
@@ -6229,8 +6229,8 @@ array.push(
         './images/imgHang/gitf/gel-rua-mat-diu-nhe-senka-perfect-gel-gentle-wash-100g.webp',
         'Senka',
         'Còn hàng', [],
-        '109000',
-        '175000', [], []
+        '109,000đ',
+        '175,000đ', [], []
     ),
 
     new Product(
@@ -6241,8 +6241,8 @@ array.push(
         './images/imgHang/gitf/nuoc-sua-tay-trang-2-lop-senka-a-l-l-clear-milky-water-230ml.webp',
         'Senka',
         'Còn hàng', [],
-        '109000',
-        '199000', [], []
+        '109,000đ',
+        '199,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6252,8 +6252,8 @@ array.push(
         './images/imgHang/gitf/xit-duong-toc-phuc-hoi-hu-ton-tsubaki-premium-repair-hair-water-220ml.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '145000',
-        '179000', [], []
+        '145,000đ',
+        '179,000đ', [], []
     ),
 
     new Product(
@@ -6264,8 +6264,8 @@ array.push(
         './images/imgHang/gitf/tinh-chat-chong-nang-senka-perfect-uv-essence.webp',
         'Senka',
         'Còn hàng', [],
-        '149000',
-        '240000', [], []
+        '149,000đ',
+        '240,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6275,8 +6275,8 @@ array.push(
         './images/imgHang/gitf/sua-chong-nang-senka-perfect-uv-milk-n-40ml.webp',
         'Senka',
         'Còn hàng', [],
-        '149000',
-        '160000', [], []
+        '149,000đ',
+        '160,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6286,8 +6286,8 @@ array.push(
         './images/imgHang/gitf/sua-tam-duong-am-senka-perfect-bubble-for-body-500ml.webp',
         'Senka',
         'Còn hàng', [],
-        '149000',
-        '159000', [], []
+        '149,000đ',
+        '159,000đ', [], []
     ),
 
     new Product(
@@ -6298,8 +6298,8 @@ array.push(
         './images/imgHang/gitf/kem-xa-tsubaki-180gr.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '149000',
-        '189000', [], []
+        '149,000đ',
+        '189,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6309,8 +6309,8 @@ array.push(
         './images/imgHang/gitf/dau-goi-xa-phuc-hoi-ngan-rung-toc-tsubaki-premium-repair-490ml-mau-vang.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '159000',
-        '199000', [], []
+        '159,000đ',
+        '199,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6320,8 +6320,8 @@ array.push(
         './images/imgHang/gitf/bo-doi-goi-xa-duong-toc-bong-muot-premium-moist-tsubaki-mau-do.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '159000',
-        '199000', [], []
+        '159,000đ',
+        '199,000đ', [], []
     ),
 
     new Product(
@@ -6332,8 +6332,8 @@ array.push(
         './images/imgHang/gitf/gel-sua-chong-nang-senka-perfect-uv-gel-80ml-1.webp',
         'Senka',
         'Còn hàng', [],
-        '175000',
-        '190000', [], []
+        '175,000đ',
+        '190,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6343,8 +6343,8 @@ array.push(
         './images/imgHang/gitf/mat-na-ngu-senka-deep-moist-gel-cream-50gr.webp',
         'Senka',
         'Còn hàng', [],
-        '179000',
-        '290000', [], []
+        '179,000đ',
+        '290,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6354,8 +6354,8 @@ array.push(
         './images/imgHang/gitf/nuoc-duong-lam-mem-trang-da-senka-white-beauty-lotion-i.webp',
         'Senka',
         'Còn hàng', [],
-        '170000',
-        '300000', [], []
+        '170,000đ',
+        '300,000đ', [], []
     ),
 
     new Product(
@@ -6366,7 +6366,7 @@ array.push(
         './images/imgHang/gitf/mat-na-toc-tsubaki-premium-repair-mask-180g.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '199000',
+        '199,000đ',
         '', [], []
     ),
     new Product(
@@ -6377,8 +6377,8 @@ array.push(
         './images/imgHang/gitf/kem-duong-trang-da-ban-dem-senka-white-beauty-glow-gel-cream-50gr.webp',
         'Senka',
         'Còn hàng', [],
-        '229000',
-        '249000', [], []
+        '229,000đ',
+        '249,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6388,8 +6388,8 @@ array.push(
         './images/imgHang/gitf/serum-duong-trang-da-senka-white-beauty-35g.webp',
         'Senka',
         'Còn hàng', [],
-        '229000',
-        '360000', [], []
+        '229,000đ',
+        '360,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6399,8 +6399,8 @@ array.push(
         './images/imgHang/gitf/dau-duong-toc-phuc-hoi-hu-ton-tsubaki-oil-perfection-hair-oil-50ml.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '229000',
-        '289000', [], []
+        '229,000đ',
+        '289,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6410,8 +6410,8 @@ array.push(
         './images/imgHang/gitf/kem-nen-trang-diem-chong-nang-anessa-perfect-uv-sunscreen-skincare-bb-foundation-spf50-pa-25ml.webp',
         'Anessa',
         'Còn hàng', [],
-        '289000',
-        '375000', [], []
+        '289,000đ',
+        '375,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6421,7 +6421,7 @@ array.push(
         './images/imgHang/gitf/bo-doi-goi-xa-sach-dau-mat-lanh-tsubaki-premium-cool-set-490ml-chai.webp',
         'Tsubaki',
         'Còn hàng', [],
-        '309000',
+        '309,000đ',
         '', [], []
     ),
     new Product(
@@ -6432,8 +6432,8 @@ array.push(
         './images/imgHang/gitf/xit-chong-nang-anessa-perfect-uv-sunscreen-skincare-spray-a-60gr.webp',
         'Anessa',
         'Còn hàng', [],
-        '330000',
-        '435000', [], []
+        '330,000đ',
+        '435,000đ', [], []
     ),
     new Product(
         'gift',
@@ -6443,8 +6443,8 @@ array.push(
         './images/imgHang/gitf/xit-chong-nang-toan-than-anessa-perfect-uv-sunscreen-bubble-spray-a-spf50-pa.webp',
         'Anessa',
         'Còn hàng', [],
-        '425000',
-        '509000', [], []
+        '425,000đ',
+        '509,000đ', [], []
     ),
 )
 

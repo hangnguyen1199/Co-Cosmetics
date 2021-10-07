@@ -1497,7 +1497,7 @@ h2:after {
     top: 100%;
     left: -153px;
     z-index: 99;
-    width: 1273px;
+    min-width: 1270px;
     border: none;
     text-align: left;
     height: 350px;
