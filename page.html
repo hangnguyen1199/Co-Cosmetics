@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="./css/slick-theme.css">
 </head>
 
-<body onload="renderProduct()">
+<body onload="renderOnload()">
     <!-- header -->
     <section class="header-container">
         <!-- header -->
@@ -390,138 +390,6 @@
                                 </div>
                                 <div class="brand-group">
                                     <ul>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Black Rouge </label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Innisfree </label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Eglips </label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Karadium </label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Lime Cosmetics</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">April Skin </label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Laneige</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Lilybyred</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Evoluderm</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Geo Lamy</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Clio</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Klairs</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">La Roche-Posay</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Maybeline</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Lemonade</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">A.Black</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Vichy</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Jonzac</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Klavuu</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">L'Oreal Paris</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">The Saem</label>
-                                            </span>
-                                        </li>
-                                        <li class="bran--check-box">
-                                            <span>
-                                                <input type="checkbox">
-                                                <label for="" class="text-check">Dollania</label>
-                                            </span>
-                                        </li>
                                     </ul>
                                 </div>
                             </aside>
@@ -555,19 +423,19 @@
                                         <div class="list-top">
 
                                             <div>
-                                                <input type="radio" id="az" name="fav_language" value="az">
+                                                <input type="radio" id="az" name="fav_language" value="az" onclick="checkToSort()">
                                                 <label for="az">A → Z</label>
                                             </div>
                                             <div>
-                                                <input type="radio" id="za" name="fav_language" value="za">
+                                                <input type="radio" id="za" name="fav_language" value="za" onclick="checkToSort()">
                                                 <label for="za">Z → A</label>
                                             </div>
                                             <div>
-                                                <input type="radio" id="tang" name="fav_language" value="tang">
+                                                <input type="radio" id="tang" name="fav_language" value="tang" onclick="checkToSort()">
                                                 <label for="tang">Giá tăng dần</label>
                                             </div>
                                             <div>
-                                                <input type="radio" id="giam" name="fav_language" value="giam">
+                                                <input type="radio" id="giam" name="fav_language" value="giam" onclick="checkToSort()">
                                                 <label for="giam">Giá giảm dần</label>
                                             </div>
                                         </div>
