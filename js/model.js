@@ -2586,6 +2586,7 @@ array.push(
 
     // toner-nuoc-can-bang
     // trang 1
+array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
@@ -3113,7 +3114,7 @@ array.push(
         '600000', [], [],
     ),
 
-
+)
 
 
 array.push(
