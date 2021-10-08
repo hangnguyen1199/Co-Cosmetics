@@ -1305,7 +1305,7 @@ h2:after {
 
 .mid_header_user_account_box {
     position: absolute;
-    top: 44px;
+    top: 38px;
     left: -76px;
     min-width: 186px;
     border: 1px solid #efefef;
@@ -1353,7 +1353,40 @@ h2:after {
 }
 
 .mid_header_user_account_box .register {
-    background: #7b8395;
+    background: #cdced1;
+    border: 1px solid transparent;  
+    color: #fff;  
+}
+/* hover signin */
+.signin:hover {
+    background: #fff;
+    border: 1px solid #437349;
+    color: #437349;
+    cursor: pointer;
+}
+
+.signin:hover a {
+    color: #437349;
+}
+
+/* hover resgiter */
+
+.register:hover {
+    background: #fff !important;
+    cursor: pointer;
+    border: 1px solid #cdced1 !important;
+
+}
+
+.register:hover a {
+    color: gray !important;
+}
+
+
+
+
+.mid_header_user_account_box .register {
+    background: #cdced1;
     border: 1px solid transparent;
 }
 
