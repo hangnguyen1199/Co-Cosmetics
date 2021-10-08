@@ -121,8 +121,8 @@
                     />
                   </a>
                   <ul class="mid_header_user_account_box">
-                    <li class="signin"><a href="#">Đăng nhập</a></li>
-                    <li class="register"><a href="#">Đăng ký</a></li>
+                    <li class="signin"><a href="./login.html">Đăng nhập</a></li>
+                    <li class="register"><a href="./resgister.html">Đăng ký</a></li>
                   </ul>
                 </li>
               </ul>
@@ -149,16 +149,24 @@
         <div class="wrap_header">
           <div class="container">
             <ul class="wrap_header_items">
-              <li><a href="#">Trang Chủ </a></li>
+              <li><a href="./index.html">Trang Chủ </a></li>
               <li>
-                <a href="#"
+                <a
+                  id="make-up-5"
+                  onclick="showProductList(this)"
+                  href="./page.html"
                   >Trang Điểm<i class="fas fa-caret-down mg-left"></i
                 ></a>
                 <div class="wrap_header_tab_makeup">
                   <div class="wrap_header_tab_column">
                     <ul class="wrap_header_tab_column_1">
-                      <a href="#" class="text-lv2">
-                        <h2 class="text-lv2">TRANG ĐIỂM MẮT</h2>
+                      <a
+                        id="face-make-up"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                        class="text-lv2"
+                      >
+                        <h2 class="text-lv2">TRANG ĐIỂM MẶT</h2>
                       </a>
                       <li>
                         <a
@@ -210,7 +218,11 @@
                       </li>
                     </ul>
                     <ul class="wrap_header_tab_column_2">
-                      <a href="#">
+                      <a
+                        id="moi"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">MÔI</h2>
                       </a>
                       <li>
@@ -247,7 +259,11 @@
                       </li>
                     </ul>
                     <ul class="wrap_header_tab_column_3">
-                      <a href="#">
+                      <a
+                        id="mat"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">MẮT</h2>
                       </a>
                       <li>
@@ -296,7 +312,11 @@
                 <div class="wrap_header_tab_skin">
                   <div class="wrap_header_tab_column">
                     <ul class="wrap_header_tab_column_1">
-                      <a href="#">
+                      <a
+                        id="lam-sach-tay-te-bao-chet"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">LÀM SẠCH - TẨY TẾ BÀO CHẾT</h2>
                       </a>
                       <li>
@@ -325,7 +345,11 @@
                       </li>
                     </ul>
                     <ul class="wrap_header_tab_column_2">
-                      <a href="#">
+                      <a
+                        id="mask-mat-na-1"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">MASK - MĂT NẠ</h2>
                       </a>
                       <li>
@@ -370,7 +394,11 @@
                       </li>
                     </ul>
                     <ul class="wrap_header_tab_column_2">
-                      <a href="#">
+                      <a
+                        id="duong-da"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">DƯỠNG DA</h2>
                       </a>
                       <li>
@@ -432,7 +460,11 @@
                 <div class="wrap_header_tab_body">
                   <div class="wrap_header_tab_column">
                     <ul class="wrap_header_tab_column_1">
-                      <a href="#">
+                      <a
+                        id="duong-da-body"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">DƯỠNG DA BODY</h2>
                       </a>
                       <li>
@@ -485,7 +517,11 @@
                       </li>
                     </ul>
                     <ul class="wrap_header_tab_column_2">
-                      <a href="#">
+                      <a
+                        id="cham-soc-toc"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">CHĂM SÓC TÓC</h2>
                       </a>
                       <li>
@@ -518,7 +554,11 @@
                 <div class="wrap_header_tab_accessory">
                   <div class="wrap_header_tab_column">
                     <ul class="wrap_header_tab_column_1">
-                      <a href="#">
+                      <a
+                        id="phu-kien-makeup"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">PHỤ KIỆN MAKEUP</h2>
                       </a>
                       <li>
@@ -539,7 +579,11 @@
                       </li>
                     </ul>
                     <ul class="wrap_header_tab_column_2">
-                      <a href="#">
+                      <a
+                        id="phu-kien-ca-nhan"
+                        onclick="showProductList(this)"
+                        href="./page.html"
+                      >
                         <h2 class="text-lv2">PHỤ KIỆN CÁ NHÂN</h2>
                       </a>
                       <li>
@@ -666,7 +710,7 @@
         </div>
       </section>
 
-      <section class="banner layout">
+      <section class="banner container">
         <a href="#">
           <img src="./images/banner-home.jpg" alt="" />
         </a>
@@ -1225,7 +1269,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make1.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make1.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
@@ -1260,7 +1303,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make2.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make2.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
@@ -1293,7 +1335,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make3.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make3.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1326,7 +1367,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make4.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make4.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1358,7 +1398,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make5.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make5.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1390,7 +1429,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make6.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make6.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1422,7 +1460,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make7.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make7.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1454,7 +1491,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make8.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make8.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1487,7 +1523,6 @@
                           <a href="#"
                             ><img src="./images/make-up/make9.webp" alt=""
                           /></a>
-                          <img src="./images/make-up/make9.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1554,7 +1589,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial1.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial1.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
@@ -1586,7 +1620,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial2.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial2.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1618,7 +1651,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial3.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial3.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1650,7 +1682,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial4.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial4.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1682,7 +1713,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial5.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial5.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1714,7 +1744,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial6.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial6.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1747,7 +1776,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial7.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial7.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1781,7 +1809,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial8.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial8.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
@@ -1815,7 +1842,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial9.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial9.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
@@ -1848,7 +1874,6 @@
                           <a href="#"
                             ><img src="./images/facial/facial10.webp" alt=""
                           /></a>
-                          <img src="./images/facial/facial10.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1912,7 +1937,6 @@
                           <a href="#"
                             ><img src="./images/body/body1.webp" alt=""
                           /></a>
-                          <img src="./images/body/body1.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1945,7 +1969,6 @@
                           <a href="#"
                             ><img src="./images/body/body2.webp" alt=""
                           /></a>
-                          <img src="./images/body/body2.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -1978,7 +2001,6 @@
                           <a href="#"
                             ><img src="./images/body/body3.webp" alt=""
                           /></a>
-                          <img src="./images/body/body3.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -2013,7 +2035,6 @@
                           <a href="#"
                             ><img src="./images/body/body4.webp" alt=""
                           /></a>
-                          <img src="./images/body/body4.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
@@ -2045,7 +2066,6 @@
                           <a href="#"
                             ><img src="./images/body/body5.webp" alt=""
                           /></a>
-                          <img src="./images/body/body5.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -2078,7 +2098,6 @@
                           <a href="#"
                             ><img src="./images/body/body6.webp" alt=""
                           /></a>
-                          <img src="./images/body/body6.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -2111,7 +2130,6 @@
                           <a href="#"
                             ><img src="./images/body/body7.webp" alt=""
                           /></a>
-                          <img src="./images/body/body7.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -2143,7 +2161,6 @@
                           <a href="#"
                             ><img src="./images/body/body8.webp" alt=""
                           /></a>
-                          <img src="./images/body/body8.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make">
                               Tùy chọn
@@ -2178,7 +2195,6 @@
                           <a href="#"
                             ><img src="./images/body/body9.webp" alt=""
                           /></a>
-                          <img src="./images/body/body9.webp" alt="" />
                           <div class="make_caption-inner">
                             <button class="btn btn-success add-make end">
                               Hết hàng
