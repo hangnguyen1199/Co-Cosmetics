@@ -1148,6 +1148,7 @@ h2:after {
 
 .mg-left {
     margin-left: 8px;
+    line-height: inherit;
 }
 
 .f-right {
@@ -1304,7 +1305,7 @@ h2:after {
 
 .mid_header_user_account_box {
     position: absolute;
-    top: 44px;
+    top: 38px;
     left: -76px;
     min-width: 186px;
     border: 1px solid #efefef;
@@ -1352,7 +1353,40 @@ h2:after {
 }
 
 .mid_header_user_account_box .register {
-    background: #7b8395;
+    background: #cdced1;
+    border: 1px solid transparent;  
+    color: #fff;  
+}
+/* hover signin */
+.signin:hover {
+    background: #fff;
+    border: 1px solid #437349;
+    color: #437349;
+    cursor: pointer;
+}
+
+.signin:hover a {
+    color: #437349;
+}
+
+/* hover resgiter */
+
+.register:hover {
+    background: #fff !important;
+    cursor: pointer;
+    border: 1px solid #cdced1 !important;
+
+}
+
+.register:hover a {
+    color: gray !important;
+}
+
+
+
+
+.mid_header_user_account_box .register {
+    background: #cdced1;
     border: 1px solid transparent;
 }
 
@@ -1436,6 +1470,29 @@ h2:after {
     color: var(--main);
 }
 
+.wrap_header_items > li {
+    font-weight: 400;
+    display: inline-block;
+    float: none;
+    position: relative;
+    margin-right: 0px;
+    margin-left: 1px;
+    font-size: 15px;
+    line-height: 60px;
+    height: 60px;
+}
+
+.wrap_header_items>li>a {
+    color: #fff;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.wrap_header_items>li:hover>a {
+    color: var(--main);
+}
+
 .wrap_header_items>li {
     font-weight: 400;
     display: inline-block;
@@ -1468,14 +1525,14 @@ h2:after {
     box-shadow: #ccc 1px 4px 5px;
     margin: 0;
     /* padding: 30px 20px 25px 15px; */
-    padding: 30px;
+    padding: 39px;
     position: absolute;
     top: 100%;
-    left: -137px;
+    left: -155px;
     z-index: 99;
-    width: 1140px;
+    min-width: 1270px;
     border: none;
-    text-align: left;
+    /* text-align: left; */
     height: 350px;
 }
 
@@ -1486,23 +1543,18 @@ h2:after {
     text-decoration: none;
 }
 
-.wrap_header_tab_makeup a,
-.wrap_header_tab_skin a,
-.wrap_header_tab_body a,
-.wrap_header_tab_accessory a {
-    text-decoration: none;
-}
 
 .wrap_header_tab_skin {
-    left: -304px;
+    left: -333px;
+
 }
 
 .wrap_header_tab_body {
-    left: -479px;
+    left: -526px;
 }
 
 .wrap_header_tab_accessory {
-    left: -680px;
+    left: -753px;
 }
 
 .wrap_header_tab_column {
@@ -1516,6 +1568,17 @@ h2:after {
     line-height: 40px;
     font-size: 15px;
     font-weight: 400;
+}
+
+.text-lv2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    color: #437349;
+}
+
+.text-lv2:hover {
+    color: #000000;
 }
 
 .wrap_header_tab_column_1>li:hover a,
@@ -1536,6 +1599,8 @@ h2:after {
 .wrap_header_items li:hover .wrap_header_tab_body,
 .wrap_header_items li:hover .wrap_header_tab_accessory {
     display: block;
+    transition: transform 0.5s ease, opacity 0.6s ease, max-height 0.6s step-end, max-width 0.6s step-end, padding 0.6s step-end;
+
 }
 
 

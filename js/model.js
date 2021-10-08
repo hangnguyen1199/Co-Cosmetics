@@ -36,9 +36,8 @@ array.push(
         'cham-soc-da',
         'lam-sach-tay-te-bao-chet',
         'tay-te-bao-chet',
-        'bong-tay-da-chet-csrx-one-step-original-clear-pad',
         'Bông Tẩy Da Chết Cosrx One Step Original Clear Pad',
-        './images/nhi-product/bong-tay-da-chet-cosrx.png',
+        './images/nhi-product/bong-tay-da-chet-cosrx-one-step-original-clear-pad.png',
         'Cosrx',
         'Còn hàng', [],
         '310000',
@@ -633,7 +632,7 @@ array.push(
     // trang 1
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Banobagi Vita Genic Jelly Mask',
         './images/nhi-product/matna/mat-na-banobagi-vita-genic-jelly-mask.png',
@@ -644,7 +643,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ BNBG Vita Genic Jelly Mask',
         './images/nhi-product/matna/mat-na-bnbg-vita-genic-jelly-mask.png',
@@ -655,7 +654,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ BNBG Vita Tea Tree Healing Face Mask',
         './images/nhi-product/matna/mat-na-bnbg-vita-tea-tree-healing-face-mask.jpg',
@@ -666,7 +665,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ By Wishtrend Natural Vitamin 21.5 Enhancing Sheet Mask',
         './images/nhi-product/matna/mat-na-by-wishtrend-natural-vitamin-21-5-enhancing-sheet-mask.png',
@@ -677,7 +676,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Caryophy Portulaca Mask Sheet',
         './images/nhi-product/matna/mat-na-caryophy-portulaca-mask-sheet.png',
@@ -688,7 +687,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Dr. Morita Facial Mask More Protection',
         './images/nhi-product/matna/mat-na-dr-morita-facial-mask-more-protection.png',
@@ -699,7 +698,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Dr. Morita Moisturizing Facial Mask',
         './images/nhi-product/matna/mat-na-dr-morita-moisturizing-facial-mask.png',
@@ -710,7 +709,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Dr. Morita Platinum Colloid',
         './images/nhi-product/matna/mat-na-dr-morita-platinum-colloid.png',
@@ -721,7 +720,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Dưỡng Da BNBG Vita Cocktail',
         './images/nhi-product/matna/mat-na-duong-da-bnbg-vita-cocktail.png',
@@ -732,21 +731,21 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         "Mặt Nạ Dưỡng Trắng Angel's Liquid Tone Up Whitening Program Glutathione V-ampoule",
-        './images/nhi-product/mat-na-duong-trang-angel-s-liquid-tone-up-whitening-program-glutathione-v-ampoule.png',
+        './images/nhi-product/matna/mat-na-duong-trang-angel-s-liquid-tone-up-whitening-program-glutathione-v-ampoule.png',
         "Angel's Liquid",
         'Còn hàng', [],
-        '29000',
-        '45000', [], [],
+        '28000',
+        '40000', [], [],
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ dưỡng trắng Naruko Arbutin Intense Brightening Mask',
-        './images/nhi-product/mat-na-duong-trang-naruko-arbutin-intense-brightening-mask.png',
+        './images/nhi-product/matna/mat-na-duong-trang-naruko-arbutin-intense-brightening-mask.png',
         'Naruko',
         'Còn hàng', [],
         '19000',
@@ -754,10 +753,10 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Dưỡng Trắng, Chống Lão Hóa Derm All Matrix Facial Dermal-Care Mask',
-        './images/nhi-product/mat-na-duong-trang-chong-lao-hoa-derm-all-matrix-facial-dermal-care-mask.png',
+        './images/nhi-product/matna/mat-na-duong-trang-chong-lao-hoa-derm-all-matrix-facial-dermal-care-mask.png',
         'Derm All Matrix',
         'Còn hàng', [],
         '75000',
@@ -766,7 +765,7 @@ array.push(
     // trang 2
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Avif Biocell Face Mask',
         './images/nhi-product/matna/mat-na-giay-avif-biocell-face-mask.png',
@@ -777,7 +776,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Avif Intensive Hydrating Mask',
         './images/nhi-product/matna/mat-na-giay-avif-intensive-hydrating-mask.png',
@@ -788,7 +787,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Banobagi Vita Cocktail Foil Mas',
         './images/nhi-product/matna/mat-na-giay-banobagi-vita-cocktail-foil-mask.png',
@@ -799,7 +798,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy dưỡng da Senka Perfect Aqua Bouncy Mask',
         './images/nhi-product/matna/mat-na-giay-duong-da-senka-perfect-aqua-bouncy-mask.png',
@@ -810,7 +809,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy dưỡng da Senka Perfect Aqua Rich Mask',
         './images/nhi-product/matna/mat-na-giay-duong-da-senka-perfect-aqua-rich-mask.png',
@@ -821,7 +820,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Foodaholic Essential Mask',
         './images/nhi-product/matna/mat-na-giay-foodaholic-essential-mask.png',
@@ -832,7 +831,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy Innisfree My Real Squeeze Mask (mẫu mới)',
         './images/nhi-product/matna/mat-na-giay-innisfree-my-real-squeeze-mask.png',
@@ -843,7 +842,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Jm Solution Hydrogel Mask',
         './images/nhi-product/matna/mat-na-giay-jm-solution-hydrogel-mask.png',
@@ -853,7 +852,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy Naruko Mask',
         './images/nhi-product/matna/mat-na-giay-naruko-mask.png',
@@ -864,7 +863,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Skin1004 Madagascar Centella Watergel Sheet Ampoule Mask',
         './images/nhi-product/matna/mat-na-giay-skin1004-madagascar-centella-watergel-sheet-ampoule-mask.png',
@@ -875,7 +874,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy dưỡng da Senka Perfect Aqua White Mask',
         './images/nhi-product/matna/mat-na-giay-duong-da-senka-perfect-aqua-white-mask.png',
@@ -886,7 +885,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy JM Solution Mask',
         './images/nhi-product/matna/mat-na-giay-jm-solution-mask.png',
@@ -898,7 +897,7 @@ array.push(
     // trang 3
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Giấy Some By Mi Yuja Niacin Blemish Care Serum Mask',
         './images/nhi-product/matna/mat-na-giay-some-by-mi-yuja-niacin-blemish-care-serum-mask.png',
@@ -909,7 +908,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy Sur. Medic',
         './images/nhi-product/matna/mat-na-giay-sur-medic.png',
@@ -920,7 +919,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ giấy The Saem Natural Mask Sheet',
         './images/nhi-product/matna/mat-na-giay-the-saem-natural-mask-sheet.png',
@@ -931,7 +930,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ HNB My Healthy Skin Detox',
         './images/nhi-product/matna/mat-na-hnb-my-healthy-skin-detox.png',
@@ -942,7 +941,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ hoa hồng The Cocoon True Rose Face Mask Hydrate & Soften',
         './images/nhi-product/matna/mat-na-hoa-hong-the-cocoon-true-rose-face-mask-1.png',
@@ -953,7 +952,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Innisfree Super Volcanic CLAY Mousse Mask 2X (chai)',
         './images/nhi-product/matna/mat-na-innisfree-super-volcanic-clay-mousse-mask-2x-chai.png',
@@ -964,7 +963,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Klairs Midnight Blue',
         './images/nhi-product/matna/mat-na-klairs-midnight-blue.png',
@@ -975,7 +974,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Klairs Rich Moist Soothing Tencel Sheet Mask',
         './images/nhi-product/matna/mat-na-klairs-rich-moist-soothing-tencel-sheet-mask.png',
@@ -986,7 +985,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ mắt JM Solution Golden Cocoon Home Esthetic Eye Patch (60 miếng)',
         './images/nhi-product/matna/mat-na-mat-jm-solution-golden-cocoon-home-esthetic-eye-patch-60-mieng.png',
@@ -997,7 +996,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Mediheal',
         './images/nhi-product/matna/mat-na-mediheal.png',
@@ -1008,7 +1007,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Melano CC Whitening Mask',
         './images/nhi-product/matna/mat-na-melano-cc-whitening-mask.png',
@@ -1019,7 +1018,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ SexyLook Intensive Black Facial Mask',
         './images/nhi-product/matna/mat-na-sexylook-black-facial-mask.png',
@@ -1031,7 +1030,7 @@ array.push(
     // trang 4
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Sexylook nâng cơ 360º',
         './images/nhi-product/matna/mat-na-sexylook-nang-co-360.png',
@@ -1042,7 +1041,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ sinh học cao cấp Sense Plus Premium Coconut Bio-Cell Mask',
         './images/nhi-product/matna/mat-na-sinh-hoc-cao-cap-sense-plus-premium-coconut-bio-cell-mask.png',
@@ -1053,7 +1052,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Some By Mi Glow Luminous Ampoule Mask',
         './images/nhi-product/matna/mat-na-some-by-mi-glow-luminous-ampoule-mask.png',
@@ -1064,7 +1063,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ Some By Mi Super Matcha Pore Clean Clay Mask 100g',
         './images/nhi-product/matna/mat-na-some-by-mi-super-matcha-pore-clean-clay-mask-100g.png',
@@ -1073,20 +1072,10 @@ array.push(
         '225000',
         '410000', [], [],
     ),
+   
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
-        'mat-na-giay',
-        '',
-        './images/nhi-product/matna/.png',
-        '',
-        'Còn hàng', [],
-        '000',
-        '000', [], [],
-    ),
-    new Product(
-        'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ sủi bọt thải độc Su:m 37 Bright Award Bubble-De Mask',
         './images/nhi-product/matna/mat-na-sui-bot-thai-doc-su-m-37-bright-award-bubble-de-mask.png',
@@ -1097,7 +1086,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt nạ thạch Sexylook Pure Jelly',
         './images/nhi-product/matna/mat-na-thach-sexylook-pure-jelly.png',
@@ -1108,7 +1097,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Tiam My Signature Vita Red Mask',
         './images/nhi-product/matna/mat-na-tiam-my-signature-vita-red-mask.png',
@@ -1119,7 +1108,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-giay',
         'Mặt Nạ Trị Mụn Derladie Witch Hazel Mask Pack',
         './images/nhi-product/matna/mat-na-tri-mun-derladie-witch-hazel-mask-pack.png',
@@ -1132,7 +1121,7 @@ array.push(
     // mat na dat set
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-dat-set',
         'Sample mặt nạ Innisfree Super Volcanic Pore Clay Mask 2X (gói) - mẫu mới',
         './images/nhi-product/matna/sample-mat-na-innisfree-super-volcanic-pore-clay-mask-2x-goi-mau-moi.png',
@@ -1143,7 +1132,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-dat-set',
         'Mặt Nạ Đất Sét Kiehl’s Rare Earth Deep Pore Cleansing Masque',
         './images/nhi-product/matna/mat-na-dat-set-kiehl-s-rare-earth-deep-pore-cleansing-masque.png',
@@ -1154,7 +1143,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-dat-set',
         'Mặt nạ đất sét Innisfree Super Volcanic Pore Clay Mask 2X (hũ)',
         './images/nhi-product/matna/mat-na-dat-set-innisfree-super-volcanic-pore-clay-mask-2x-hu.png',
@@ -1165,7 +1154,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-dat-set',
         'Thanh lăn đất sét Neogen Canadian Clay Pore Stick Mask',
         './images/nhi-product/matna/thanh-lan-dat-set-neogen-canadian-clay-pore-stick-mask.png',
@@ -1176,7 +1165,7 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-dat-set',
         'Mặt nạ đất sét Re:p Bio Fresh Mask With Real Herbs 130g',
         './images/nhi-product/matna/mat-na-dat-set-re-p-bio-fresh-mask-with-real-calming-herbs-130g.png',
@@ -1189,8 +1178,8 @@ array.push(
     // mat na moi
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
-        'mat-na-moi',
+        'mask-mat-na-1',
+        'mat-na-moi-1',
         'Mặt nạ môi dưỡng ẩm Sense Plus Hydrating Lip Mask',
         './images/nhi-product/matna/mat-na-moi-duong-am-sense-plus-hydrating-lip-mask.png',
         'Sense Plus',
@@ -1200,8 +1189,8 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
-        'mat-na-moi',
+        'mask-mat-na-1',
+        'mat-na-moi-1',
         'Mặt nạ ngủ môi Care:nel Lip Sleeping Mask',
         './images/nhi-product/matna/mat-na-ngu-moi-care-nel-lip-sleeping-mask.png',
         'Care:nel',
@@ -1210,8 +1199,8 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
-        'mat-na-moi',
+        'mask-mat-na-1',
+        'mat-na-moi-1',
         'Mặt Nạ Ngủ Môi Laneige Lip Sleeping Mask',
         './images/nhi-product/matna/mat-na-ngu-moi-laneige-lip-sleeping-mask.png',
         'Laneige',
@@ -1222,10 +1211,10 @@ array.push(
     //    mat na lot
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
-        'mat-na-lot',
+        'mask-mat-na-1',
+        'mat-na-lot-mun',
         'Mặt nạ lột Innisfree Super Volcanic Peel Off Mask 2X',
-        './images/nhi-product/matna/mat-na-lot-innisfree-super-volcanic-peel-off-mask-2x.png',
+        './images/nhi-product/matna/mat-na-lot-mun-innisfree-super-volcanic-peel-off-mask-2x.png',
         'Innisfree ',
         'Còn hàng', [],
         '170000',
@@ -1233,8 +1222,8 @@ array.push(
     ),
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
-        'mat-na-lot',
+        'mask-mat-na-1',
+        'mat-na-lot-mun',
         'Mặt nạ lột tẩy tế bào chết Real Calendula Peel Off Pack April Skin',
         './images/nhi-product/matna/mat-na-lot-tay-te-bao-chet-real-calendula-peel-off-pack-april-skin.png',
         'April Skin',
@@ -1246,7 +1235,7 @@ array.push(
     // mat na mat
     new Product(
         'cham-soc-da',
-        'mask-mat-na',
+        'mask-mat-na-1',
         'mat-na-mat',
         'Mặt nạ mắt dưỡng ẩm Sense Plus Moisturizing Eye Mask',
         './images/nhi-product/matna/mat-na-mat-duong-am-sense-plus-moisturizing-eye-mask.png',
@@ -2050,7 +2039,7 @@ array.push(
         'duong-da',
         'kem-duong-da',
         'Kem dưỡng da Innisfree Green Tea Balancing Cream EX (mẫu mới 2019)',
-        './images/nhi-product/kemduong/.png',
+        './images/nhi-product/kemduong/kem-duong-da-innisfree-green-tea-balancing-cream-ex.png',
         'Innisfree',
         'Còn hàng', [],
         '235000',
@@ -2164,6 +2153,28 @@ array.push(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
+        'Kem Chống Nắng 3W Intensive UV',
+        './images/nhi-product/kemchongnang/kem-chong-nang-3w-intensive-uv.png',
+        '3W Clinic',
+        'Còn hàng', [],
+        '55000₫ ',
+        '90000', [], [],
+    ),
+    new Product(
+        'cham-soc-da',
+        'duong-da',
+        'kem-chong-nang',
+        'Kem chống nắng SJM Medical Anti - UV Dr. Skincare (60g)',
+        './images/nhi-product/kemchongnang/kem-chong-nang-sjm-medical-anti-uv-dr-skincare-60g.png',
+        'Dr.Skincare',
+        'Còn hàng', [],
+        '65000',
+        '115000', [], [],
+    ),
+    new Product(
+        'cham-soc-da',
+        'duong-da',
+        'kem-chong-nang',
         'Kem Chống Nắng Omi Sun Bears',
         './images/nhi-product/kemchongnang/kem-chong-nang-omi-sun-bears.png',
         'Omi',
@@ -2192,8 +2203,7 @@ array.push(
         'Còn hàng', [],
         '129000',
         '200000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2203,41 +2213,37 @@ array.push(
         'Còn hàng', [],
         '135000',
         '175000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem Chống Nắng UV Perfect Loreal Paris',
         './images/nhi-product/kemchongnang/kem-chong-nang-uv-perfect-loreal-paris.png',
-        'Loreal Paris',
+        " L'Oreal Paris",
         'Còn hàng', [],
         '135000',
-        '140000', [], [],
-    ),
-    new Product(
+        '148000', [], [],
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Tinh chất chống nắng Senka Perfect UV Essence',
         './images/nhi-product/kemchongnang/tinh-chat-chong-nang-senka-perfect-uv-essence.png',
-        'Senka',
+        'Senka ',
         'Còn hàng', [],
         '149000',
         '240000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Sữa chống nắng Senka Perfect UV Milk N 40ml',
         './images/nhi-product/kemchongnang/sua-chong-nang-senka-perfect-uv-milk-n-40ml.png',
-        'Senka',
+        'Senka ',
         'Còn hàng', [],
         '149000',
         '160000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2247,19 +2253,17 @@ array.push(
         'Còn hàng', [],
         '175000',
         '190000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem Chống Nắng Tone Up No Sebum Innisfree',
         './images/nhi-product/kemchongnang/kem-chong-nang-tone-up-no-sebum-innisfree.png',
-        'Innisfree',
+        'Innisfree ',
         'Còn hàng', [],
         '189000',
         '250000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2270,28 +2274,6 @@ array.push(
         '189000',
         '289000', [], [],
     ),
-    new Product(
-        'cham-soc-da',
-        'duong-da',
-        'kem-chong-nang',
-        'Kem Chống Nắng 3W Intensive UV',
-        './images/nhi-product/kemchongnang/kem-chong-nang-3w-intensive-uv.png',
-        '3W Clinic',
-        'Còn hàng', [],
-        '55000',
-        '90000', [], [],
-    ),
-    new Product(
-        'cham-soc-da',
-        'duong-da',
-        'kem-chong-nang',
-        'Kem chống nắng SJM Medical Anti - UV Dr. Skincare (60g)',
-        './images/nhi-product/kemchongnang/kem-chong-nang-sjm-medical-anti-uv-dr-skincare-60g.png',
-        'Dr. Skincare',
-        'Còn hàng', [],
-        '65000',
-        '115000', [], [],
-    ),
     // trang 2
     new Product(
         'cham-soc-da',
@@ -2299,12 +2281,11 @@ array.push(
         'kem-chong-nang',
         'Kem Chống Nắng Dưỡng Da Rosie Seoulrose First Essence Whitening Serum Sunscreen SPFF45 PA+++',
         './images/nhi-product/kemchongnang/kem-chong-nang-duong-da-seoulrose-first-essence-whitening-serum-sunscreen-spff45-pa.png',
-        'Seoulrose',
+        'Seoul Rose',
         'Còn hàng', [],
         '199000',
         '260000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2314,19 +2295,17 @@ array.push(
         'Còn hàng', [],
         '199000',
         '265000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Set Kem chống nắng dạng thỏi Sur.medic Super Ceramide + Toner 50ml',
         './images/nhi-product/kemchongnang/set-kem-chong-nang-dang-thoi-sur-medic-super-ceramide-toner-50ml.png',
-        'Sur.medic',
+        'Sur.Medic ',
         'Còn hàng', [],
         '199000',
         '289000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2335,31 +2314,28 @@ array.push(
         '9 Wishes',
         'Còn hàng', [],
         '199000',
-        '302000', [], [],
-    ),
-    new Product(
+        '320000', [], [],
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng Rosie First Essence Whitening Serum Sunscreen',
         './images/nhi-product/kemchongnang/kem-chong-nang-rosie-first-essence-whitening-serum-sunscreen.png',
-        'Seoul Rose',
+        'Seoul Rose ',
         'Còn hàng', [],
         '199000',
         '230000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem Chống Nắng Innisfree Intensive Long Lasting Sunscreen EX',
-        './images/nhi-product/kemchongnang/.png',
+        './images/nhi-product/kemchongnang/kem-chong-nang-innisfree-intensive-long-lasting-sunscreen-ex.png',
         'Innisfree',
         'Còn hàng', [],
         '199000',
         '250000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2368,30 +2344,28 @@ array.push(
         '9 Wishes',
         'Còn hàng', [],
         '199000',
-        '300000', [], [],
-    ),
-    new Product(
+        '380000', [], [],
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng trắng da Rosa Perfect Whitening',
         './images/nhi-product/kemchongnang/kem-chong-nang-trang-da-rosa-perfect-whitening.png',
-        'Seoul Rose',
+        'Seoul Rose ',
         'Còn hàng', [],
         '229000',
         '260000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         "Kem Chống Nắng L'Oreal UV Defender Serum Protector",
         './images/nhi-product/kemchongnang/kem-chong-nang-l-oreal-uv-defender-serum-protector.png',
-        " L'Oreal Paris ",
+        "L'Oreal",
         'Còn hàng', [],
-        '259000', [], [], [],
-    ),
-    new Product(
+        '259000',
+        [], [], [],
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2401,28 +2375,26 @@ array.push(
         'Còn hàng', [],
         '265000',
         '365000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem Chống Nắng Skin1004 Madagascar Centella Air-Fit Suncream',
         './images/nhi-product/kemchongnang/kem-chong-nang-skin1004-madagascar-centella-air-fit-suncream.png',
-        'Skin1004',
+        'Skin1004 ',
         'Còn hàng', [],
         '279000',
         '395000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng Caryophy Smart Sunscreen Tone Up (50ml)',
         './images/nhi-product/kemchongnang/kem-chong-nang-caryophy-smart-sunscreen-tone-up-50ml.png',
-        'Caryophy',
+        'Caryophy ',
         'Còn hàng', [],
         '288000',
-        '300000', [], [],
+        '380000', [], [],
     ),
     // trang 3
     new Product(
@@ -2435,19 +2407,17 @@ array.push(
         'Còn hàng', [],
         '289000',
         '375000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng Neogen Dermalogy Day Light Protection Sunscreen',
         './images/nhi-product/kemchongnang/kem-chong-nang-neogen-dermalogy-day-light-protection-sunscreen.png',
-        'Neogen ',
+        'Neogen',
         'Còn hàng', [],
         '299000',
         '405000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2457,19 +2427,17 @@ array.push(
         'Còn hàng', [],
         '309000',
         '400000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Xịt chống nắng Anessa Perfect UV Sunscreen Skincare Spray A 60gr',
         './images/nhi-product/kemchongnang/xit-chong-nang-anessa-perfect-uv-sunscreen-skincare-spray-a-60gr.png',
-        'Anessa ',
+        'Anessa',
         'Còn hàng', [],
         '330000',
         '435000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2479,8 +2447,7 @@ array.push(
         'Còn hàng', [],
         '399000',
         '500000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2490,30 +2457,28 @@ array.push(
         'Còn hàng', [],
         '399000',
         '520000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng Vichy Ideal Soleil ( Tặng xịt khoáng 50ml + Tẩy trang 50ml )',
         './images/nhi-product/kemchongnang/kem-chong-nang-vichy-ideal-soleil.png',
-        'Vichy ',
+        'Vichy',
         'Còn hàng', [],
         '399000',
-        '500000', [], [],
-    ),
-    new Product(
+        '500000',
+         [], [],
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng Vichy ngăn sạm da, giảm thâm nám Anti Taches (Tặng Serum 15ml)',
         './images/nhi-product/kemchongnang/kem-chong-nang-vichy-ngan-sam-da-giam-tham-nam-anti-taches.png',
-        'Vichy ',
+        'Vichy',
         'Còn hàng', [],
         '399000',
         '500000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2523,8 +2488,7 @@ array.push(
         'Còn hàng', [],
         '419000',
         '550000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2534,19 +2498,17 @@ array.push(
         'Còn hàng', [],
         '425000',
         '509000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Kem chống nắng La Roche-Posay Anthelios Anti-Imperfections 50ml',
         './images/nhi-product/kemchongnang/kem-chong-nang-la-roche-posay-anthelios-anti-imperfections-50ml.png',
-        ' La Roche-Posay',
+        'La Roche-Posay',
         'Còn hàng', [],
         '429000',
         '490000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2568,8 +2530,7 @@ array.push(
         'Còn hàng', [],
         '429000',
         '490000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2579,19 +2540,17 @@ array.push(
         'Còn hàng', [],
         '439000',
         '490000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
         'Sữa chống nắng Anessa Mild Milk 60ml',
-        './images/nhi-product/kemchongnang/.png',
+        './images/nhi-product/kemchongnang/sua-chong-nang-anessa-mild-milk-60ml.png',
         'Anessa',
         'Còn hàng', [],
         '499000',
         '685000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2601,8 +2560,7 @@ array.push(
         'Còn hàng', [],
         '525000',
         '685000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2612,8 +2570,7 @@ array.push(
         'Còn hàng', [],
         '539000',
         '700000', [], [],
-    ),
-    new Product(
+    ),new Product(
         'cham-soc-da',
         'duong-da',
         'kem-chong-nang',
@@ -2624,16 +2581,17 @@ array.push(
         '539000',
         '659000', [], [],
     ),
+),
 
 
-    // tonner
+    // toner-nuoc-can-bang
     // trang 1
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Huyết thanh dưỡng trắng chống lão hóa Mediskinbyc Idebenone C +Ampoule 2X',
-        './images/nhi-product/tonner/huyet-thanh-duong-trang-chong-lao-hoa-mediskinbyc-idebenone-c-ampoule-2x.png',
+        './images/nhi-product/toner-nuoc-can-bang/huyet-thanh-duong-trang-chong-lao-hoa-mediskinbyc-idebenone-c-ampoule-2x.png',
         'MediskinbyC',
         'Còn hàng', [],
         '340000',
@@ -2642,9 +2600,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng & Dưỡng ẩm Senka Deep Moist Lotion I',
-        './images/nhi-product/tonner/nuoc-can-bang-duong-am-senka-deep-moist-lotion-i.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-duong-am-senka-deep-moist-lotion-i.png',
         'Senka ',
         'Còn hàng', [],
         '169000',
@@ -2653,9 +2611,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng 9 Wishes Rice 72% White Lucent Refining Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-9-wishes-rice-72-white-lucent-refining-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-9-wishes-rice-72-white-lucent-refining-toner.png',
         '9 Wishes',
         'Còn hàng', [],
         '195000', [], [], [],
@@ -2663,9 +2621,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Da Bí Đao Cocoon Winter Melon Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-da-bi-dao-cocoon-winter-melon-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-da-bi-dao-cocoon-winter-melon-toner.png',
         'Cocoon',
         'Còn hàng', [],
         '158000',
@@ -2674,9 +2632,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng dạng miếng Coreana Biocos Daily Healing Pad',
-        './images/nhi-product/tonner/nuoc-can-bang-dang-mieng-coreana-biocos-daily-healing-pad.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-dang-mieng-coreana-biocos-daily-healing-pad.png',
         'Coreana',
         'Còn hàng', [],
         '289000',
@@ -2685,9 +2643,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng dành cho nam MdoC Sebum Strike Toner',
-        './images/nhi-product/tonner/nuoc-hoa-hong-danh-cho-nam-mdoc-sebum-strike-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-danh-cho-nam-mdoc-sebum-strike-toner.png',
         'MdoC',
         'Còn hàng', [],
         '469000',
@@ -2696,9 +2654,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Derladie Natural Moisture Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-derladie-natural-moisture-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-derladie-natural-moisture-toner.png',
         'Derladie',
         'Còn hàng', [],
         '289000',
@@ -2707,9 +2665,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Evoluderm',
-        './images/nhi-product/tonner/nuoc-can-bang-evoluderm.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-evoluderm.png',
         'Evoluderm ',
         'Còn hàng', [],
         '99000',
@@ -2718,9 +2676,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Innisfree Jeju Cherry Blossom Skin',
-        './images/nhi-product/tonner/nuoc-hoa-hong-innisfree-jeju-cherry-blossom-skin.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-innisfree-jeju-cherry-blossom-skin.png',
         'Innisfree',
         'Còn hàng', [],
         '245000',
@@ -2729,9 +2687,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước căn bằng Jeju Volcanic Pore Toner Innisfree',
-        './images/nhi-product/tonner/nuoc-can-bang-jeju-volcanic-pore-toner-innisfree.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-jeju-volcanic-pore-toner-innisfree.png',
         'Innisfree',
         'Còn hàng', [],
         '250000',
@@ -2740,9 +2698,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng JM Solution Toner XL',
-        './images/nhi-product/tonner/nuoc-can-bang-jm-solution-toner-xl.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-jm-solution-toner-xl.png',
         'JM Solution',
         'Còn hàng', [],
         '199000',
@@ -2751,9 +2709,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Klairs Daily Skin Hydrating Water 500ml',
-        './images/nhi-product/tonner/nuoc-can-bang-klairs-daily-skin-hydrating-water-500ml.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-klairs-daily-skin-hydrating-water-500ml.png',
         'Klairs',
         'Còn hàng', [],
         '369000',
@@ -2763,9 +2721,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng La Roche-Posay Effaclar Astringent Lotion (Tặng sữa rửa mặt 50ml)',
-        './images/nhi-product/tonner/nuoc-can-bang-la-roche-posay-effaclar-astringent-lotion.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-la-roche-posay-effaclar-astringent-lotion.png',
         'La Roche-Posay',
         'Còn hàng', [],
         '329000',
@@ -2774,9 +2732,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Làm Dịu Da Caryophy Portulaca Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-lam-diu-da-caryophy-portulaca-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-lam-diu-da-caryophy-portulaca-toner.png',
         'Caryophy ',
         'Còn hàng', [],
         '304000',
@@ -2785,9 +2743,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Madagascar Centella Toning Toner Skin1004',
-        './images/nhi-product/tonner/nuoc-can-bang-madagascar-centella-toning-toner-skin1004.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-madagascar-centella-toning-toner-skin1004.png',
         'Skin1004',
         'Còn hàng', [],
         '315000',
@@ -2796,9 +2754,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Mamonde',
-        './images/nhi-product/tonner/nuoc-can-bang-mamonde-flower-story.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-mamonde-flower-story.png',
         'Mamonde',
         'Còn hàng', [],
         '189000', [], [], [],
@@ -2806,9 +2764,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng pH 5.5 Red Water Tonic Toner So Natural',
-        './images/nhi-product/tonner/nuoc-can-bang-ph-5-5-red-water-tonic-toner-so-natural.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-ph-5-5-red-water-tonic-toner-so-natural.png',
         'So Natural',
         'Còn hàng', [],
         '360000',
@@ -2817,9 +2775,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Seoulrose Rosa Deep Pore Healing Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-seoulrose-rosa-deep-pore-healing-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-seoulrose-rosa-deep-pore-healing-toner.png',
         'SeoulRose',
         'Còn hàng', [],
         '209000',
@@ -2828,9 +2786,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Simple Smoothing Facial Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-simple-smoothing-facial-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-simple-smoothing-facial-toner.png',
         'Simple',
         'Còn hàng', [],
         '89000',
@@ -2839,9 +2797,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Skin1004 Madagascar Centella Hyalu-Cica Brightening Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-skin1004-madagascar-centella-hyalu-cica-brightening-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-skin1004-madagascar-centella-hyalu-cica-brightening-toner.png',
         'Skin1004',
         'Còn hàng', [],
         '309000',
@@ -2850,9 +2808,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Snail Truecica Miracle Repair Toner Some By Mi',
-        './images/nhi-product/tonner/nuoc-can-bang-snail-truecica-miracle-repair-toner-some-by-mi.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-snail-truecica-miracle-repair-toner-some-by-mi.png',
         'Some By Mi',
         'Còn hàng', [],
         '259000',
@@ -2861,9 +2819,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Some By Mi AHA-BHA-PHA 30 Days Miracle Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-some-by-mi-aha-bha-pha-30-days-miracle-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-some-by-mi-aha-bha-pha-30-days-miracle-toner.png',
         'Some By Mi',
         'Còn hàng', [],
         '229000',
@@ -2872,9 +2830,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Some By Mi Galactomyces Pure Vitamin C Glow Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-some-by-mi-galactomyces-pure-vitamin-c-glow-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-some-by-mi-galactomyces-pure-vitamin-c-glow-toner.png',
         ' Some By Mi ',
         'Còn hàng', [],
         '279000',
@@ -2883,9 +2841,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Some By Mi Red TeaTree Cicassoside Final Solution Toner',
-        './images/nhi-product/tonner/nuoc-hoa-hong-some-by-mi-red-teatree-cicassoside-final-solution-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-some-by-mi-red-teatree-cicassoside-final-solution-toner.png',
         'Some By Mi',
         'Còn hàng', [],
         '245000',
@@ -2895,9 +2853,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Some By Mi Yuja Niacin 30 Days Micracle Brightening',
-        './images/nhi-product/tonner/nuoc-can-bang-some-by-mi-yuja-niacin-30-days-micracle-brightening.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-some-by-mi-yuja-niacin-30-days-micracle-brightening.png',
         'Some By Mi',
         'Còn hàng', [],
         '209000',
@@ -2906,9 +2864,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Super Matcha Pore Tightening Toner 150 ml',
-        './images/nhi-product/tonner/nuoc-can-bang-super-matcha-pore-tightening-toner-150-ml.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-super-matcha-pore-tightening-toner-150-ml.png',
         ' Some By Mi ',
         'Còn hàng', [],
         '249000',
@@ -2917,9 +2875,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Sur.medic Super Glutathione 100 Bright Skin',
-        './images/nhi-product/tonner/.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-sur-medic-super-glutathione-100-bright-skin.png',
         'Sur.medic',
         'Còn hàng', [],
         '199000',
@@ -2928,9 +2886,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Tea Tree Shine Control & Blemish Clear Toner Naruko',
-        './images/nhi-product/tonner/nuoc-can-bang-tea-tree-shine-control-blemish-clear-toner-naruko.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-tea-tree-shine-control-blemish-clear-toner-naruko.png',
         'Naruko ',
         'Còn hàng', [],
         '239000',
@@ -2939,9 +2897,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng The Ordinary Glycolic Acid 7% Toning Solution',
-        './images/nhi-product/tonner/nuoc-hoa-hong-the-ordinary-glycolic-acid-7-toning-solution.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-the-ordinary-glycolic-acid-7-toning-solution.png',
         'The Ordinary',
         'Còn hàng', [],
         '339000',
@@ -2950,9 +2908,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Tiam My Signature Vita Red Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-tiam-my-signature-vita-red-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-tiam-my-signature-vita-red-toner.png',
         'Tiam ',
         'Còn hàng', [],
         '309000',
@@ -2961,9 +2919,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Cân Bằng Toner Christian Lenart',
-        './images/nhi-product/tonner/nuoc-hoa-hong-toner-christian-lenart.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-toner-christian-lenart.png',
         'Christian',
         'Còn hàng', [],
         '129000',
@@ -2972,9 +2930,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng Toner Thayers',
-        './images/nhi-product/tonner/nuoc-can-bang-toner-thayer.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-toner-thayer.png',
         'Thayer',
         'Còn hàng', [],
         '220000',
@@ -2983,9 +2941,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng tràm trà Derladie Herbal Extract Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-tram-tra-derladie-herbal-extract-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-tram-tra-derladie-herbal-extract-toner.png',
         'Derladie',
         'Còn hàng', [],
         '299000',
@@ -2994,9 +2952,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng trị mụn Cosrx AHA/BHA Clarifying Treatment Toner',
-        './images/nhi-product/tonner/nuoc-can-bang-tri-mun-cosrx-aha-bha-clarifying-treatment-toner.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-tri-mun-cosrx-aha-bha-clarifying-treatment-toner.png',
         'Corsrx',
         'Còn hàng', [],
         '215000',
@@ -3005,9 +2963,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước cân bằng dưỡng ẩm Klairs Supple Preparation Facial Toner',
-        './images/nhi-product/tonner/.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-can-bang-duong-am-klairs-supple-preparation-facial-toner.png',
         'Klairs',
         'Còn hàng', [],
         '239000',
@@ -3016,9 +2974,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước dưỡng da By Wishtrend Mandelic Acid 5% Skin Prep Water',
-        './images/nhi-product/tonner/nuoc-duong-da-by-wishtrend-mandelic-acid-5-skin-prep-water.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-duong-da-by-wishtrend-mandelic-acid-5-skin-prep-water.png',
         ' By Wishtrend',
         'Còn hàng', [],
         '288000',
@@ -3028,9 +2986,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước Hoa Hồng Cân Bắng 9 Wishes Pine Clear Recovery Treatment Skin',
-        './images/nhi-product/tonner/nuoc-hoa-hong-can-bang-9-wishes-pine-clear-recovery-treatment-skin.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-hoa-hong-can-bang-9-wishes-pine-clear-recovery-treatment-skin.png',
         '9 Wishes ',
         'Còn hàng', [],
         '249000',
@@ -3039,9 +2997,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Nước làm đẹp da Son&Park Beauty Water 60ml',
-        './images/nhi-product/tonner/nuoc-lam-dep-da-son-park-beauty-water-60ml.png',
+        './images/nhi-product/toner-nuoc-can-bang/nuoc-lam-dep-da-son-park-beauty-water-60ml.png',
         'Son&Park',
         'Còn hàng', [],
         '90000',
@@ -3050,9 +3008,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Set Kem chống nắng dạng thỏi Sur.medic Super Ceramide + Toner 50ml',
-        './images/nhi-product/tonner/set-kem-chong-nang-dang-thoi-sur-medic-super-ceramide-toner-50ml.png',
+        './images/nhi-product/toner-nuoc-can-bang/set-kem-chong-nang-dang-thoi-sur-medic-super-ceramide-toner-50ml.png',
         'Sur.Medic',
         'Còn hàng', [],
         '199000',
@@ -3061,9 +3019,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh chất bí đao The Cocoon Winter Melon Serum 70ml',
-        './images/nhi-product/tonner/tinh-chat-bi-dao-the-cocoon-winter-melon-serum-70ml.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-bi-dao-the-cocoon-winter-melon-serum-70ml.png',
         'Cocoon',
         'Còn hàng', [],
         '239000', [], [], [],
@@ -3071,9 +3029,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh chất chống lão hoá The Ordinary Buffet Multi-Technology Peptide Serum',
-        './images/nhi-product/tonner/tinh-chat-chong-lao-hoa-the-ordinary-buffet-multi-technology-peptide-serum.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-chong-lao-hoa-the-ordinary-buffet-multi-technology-peptide-serum.png',
         'The Ordinary',
         'Còn hàng', [],
         '415000',
@@ -3082,9 +3040,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         "Tinh Chất Làm Hồng Angel's Liquid Glutathione + Niacinamide Inner Pure Gel",
-        './images/nhi-product/tonner/tinh-chat-lam-hong-angel-s-liquid-glutathione-niacinamide-inner-pure-gel.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-lam-hong-angel-s-liquid-glutathione-niacinamide-inner-pure-gel.png',
         "Angel's Liquid",
         'Còn hàng', [],
         '435000', [], [], [],
@@ -3092,9 +3050,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh chất Some By Mi AHA-BHA-PHA 30 Days Miracle Serum',
-        './images/nhi-product/tonner/tinh-chat-some-by-mi-aha-bha-pha-30-days-miracle-serum.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-some-by-mi-aha-bha-pha-30-days-miracle-serum.png',
         'Some By Mi',
         'Còn hàng', [],
         '245000',
@@ -3103,9 +3061,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh Chất Trắng Da Esthemax Vitamin C 561 100ml',
-        './images/nhi-product/tonner/tinh-chat-trang-da-esthemax-vitamin-c-561-100ml.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-trang-da-esthemax-vitamin-c-561-100ml.png',
         'Esthemax',
         'Còn hàng', [],
         '199000',
@@ -3114,9 +3072,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh chất Trị Mụn Caryophy Portulaca Ampoule',
-        './images/nhi-product/tonner/tinh-chat-tri-mun-caryophy-portulaca-ampoule.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-tri-mun-caryophy-portulaca-ampoule.png',
         'Caryophy ',
         'Còn hàng', [],
         '280000',
@@ -3125,9 +3083,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh chất truyền trắng Sur.Medic Super Glutathione 100 Bright Ampoule',
-        './images/nhi-product/tonner/tinh-chat-truyen-trang-sur-medic-super-glutathione-100-bright-ampoule.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-truyen-trang-sur-medic-super-glutathione-100-bright-ampoule.png',
         'Sur.medic',
         'Còn hàng', [],
         '21000', [], [], [],
@@ -3135,9 +3093,9 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Tinh Dầu Tràm Trà Naruko Tea Tree Purifying Essential Oil',
-        './images/nhi-product/tonner/tinh-chat-tri-mun-chiet-xuat-cay-phi-derladie-witch-hazel-perfect-vitamin-serum.png',
+        './images/nhi-product/toner-nuoc-can-bang/tinh-chat-tri-mun-chiet-xuat-cay-phi-derladie-witch-hazel-perfect-vitamin-serum.png',
         'Derladie',
         'Còn hàng', [],
         '199000',
@@ -3146,15 +3104,15 @@ array.push(
     new Product(
         'cham-soc-da',
         'duong-da',
-        'tonner',
+        'toner-nuoc-can-bang',
         'Toner dạng miếng Re:p Organic Cotton Treatment Toning Pad 130ml (90 miếng)',
-        './images/nhi-product/tonner/.png',
+        './images/nhi-product/toner-nuoc-can-bang/toner-dang-mieng-re-p-organic-cotton-treatment-toning-pad-130ml-90-mieng.png',
         'Re:p',
         'Còn hàng', [],
         '429000',
         '600000', [], [],
     ),
-)
+
 
 
 
