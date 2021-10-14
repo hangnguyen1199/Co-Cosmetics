@@ -8,7 +8,7 @@ var brandBar = document.querySelector(".brand-group ul");
 function showProductList(element) {
   var productSelectedList = productList.filter(function (item) {
     for (let i = 0; i < item.url.length; i++) {
-      if (item.url[i] === element.id) {
+      if (item.url[i] === element) {
         return true;
       }
     }
@@ -18,15 +18,27 @@ function showProductList(element) {
     JSON.stringify(productSelectedList)
   );
 }
-function renderOnload() {
-  renderProduct(productListToRender);
-  renderbrand();
+function getQueryName(){
+    const partURL = window.location.href
+    const index = partURL.indexOf("=")+1
+    const queryName = index?partURL.substring(index):"face-make-up"
+    // const queryName = partURL.substring()
+    return queryName
 }
-function renderbrand() {
+
+function renderOnload() {
+  showProductList(getQueryName())
+  productListToRender = JSON.parse(
+    localStorage.getItem("productSelectedList")
+  )
+  renderProduct(productListToRender);
+  renderbrand(productListToRender);
+}
+function renderbrand(listToRenderBrand) {
   var uniqueArray = [];
-  for (let i = 0; i < productListToRender.length; i++) {
-    if (!uniqueArray.includes(productListToRender[i].brand)) {
-      uniqueArray.push(productListToRender[i].brand);
+  for (let i = 0; i < listToRenderBrand.length; i++) {
+    if (!uniqueArray.includes(listToRenderBrand[i].brand)) {
+      uniqueArray.push(listToRenderBrand[i].brand);
     }
   }
   var brandHTML = uniqueArray.map(function (item, index) {
