@@ -4,6 +4,7 @@ var productListToRender = JSON.parse(
 );
 var sortfeature = document.querySelectorAll(".list-top div input");
 var brandBar = document.querySelector(".brand-group ul");
+
 function showProductList(element) {
   var productSelectedList = productList.filter(function (item) {
     for (let i = 0; i < item.url.length; i++) {
@@ -21,15 +22,28 @@ function makeURL(element){
   //element is tab clicked
   var url = new URL("http://127.0.0.1:5500/page.html");
   url.searchParams.append("name",element.id)
-  window.location.assign(url)
+  window.location.assign(url)   
 }
 
 function getQueryName(element){
     const partURL = window.location.href
     const index = partURL.indexOf("=")+1
-    const queryName = index?partURL.substring(index):"face-make-up"
-    return queryName
-    
+    const lastIndex = partURL.indexOf("#")
+    var queryName=index?partURL.substring(index):"face-make-up"
+    if(lastIndex!=-1){
+      queryName = index?partURL.substring(index,lastIndex):"face-make-up"
+    }
+    return queryName   
+}
+function changeQuery(element){
+  const url = new URL(window.location);
+  url.searchParams.set('name',element.id);
+  window.history.pushState({}, '', url);
+  showProductList(element.id)
+  productListToRender = JSON.parse(
+    localStorage.getItem("productSelectedList")
+  )
+  renderProduct(productListToRender);
 }
 
 function renderOnload() {
