@@ -18,39 +18,38 @@ function showProductList(element) {
     JSON.stringify(productSelectedList)
   );
 }
-function makeURL(element){
+function makeURL(element) {
   //element is tab clicked
   var url = new URL("http://127.0.0.1:5500/page.html");
-  url.searchParams.append("name",element.id)
-  window.location.assign(url)   
+  url.searchParams.append("name", element.id);
+  window.location.assign(url);
 }
 
-function getQueryName(element){
-    const partURL = window.location.href
-    const index = partURL.indexOf("=")+1
-    const lastIndex = partURL.indexOf("#")
-    var queryName=index?partURL.substring(index):"face-make-up"
-    if(lastIndex!=-1){
-      queryName = index?partURL.substring(index,lastIndex):"face-make-up"
-    }
-    return queryName   
+function getQueryName(type, typeDefault) {
+  const partURL = window.location.href;
+  const index = partURL.indexOf(`${type}=`) + 1;
+  console.log(`${type}=`);
+  const lastIndex = partURL.indexOf("#");
+  var queryName = index ? partURL.substring(index + type.length) : typeDefault;
+  if (lastIndex != -1) {
+    queryName = index
+      ? partURL.substring(index + type.length, lastIndex)
+      : typeDefault;
+  }
+  return queryName;
 }
-function changeQuery(element){
+function changeQuery(element) {
   const url = new URL(window.location);
-  url.searchParams.set('name',element.id);
-  window.history.pushState({}, '', url);
-  showProductList(element.id)
-  productListToRender = JSON.parse(
-    localStorage.getItem("productSelectedList")
-  )
+  url.searchParams.set("name", element.id);
+  window.history.pushState({}, "", url);
+  showProductList(element.id);
+  productListToRender = JSON.parse(localStorage.getItem("productSelectedList"));
   renderProduct(productListToRender);
 }
 
 function renderOnload() {
-  showProductList(getQueryName())
-  productListToRender = JSON.parse(
-    localStorage.getItem("productSelectedList")
-  )
+  showProductList(getQueryName("name", "face-make-up"));
+  productListToRender = JSON.parse(localStorage.getItem("productSelectedList"));
   renderProduct(productListToRender);
   renderbrand(productListToRender);
 }
@@ -77,16 +76,16 @@ function renderProduct(list) {
     return `<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
                 <div class="product_border">
                     <div class="product__item">
-                        <div class="product__img">
+                        <div class="product__img" onclick="viewProductDetail(${item.productID})">
                             <img src="${item.mainAvatar}" alt=${item.productName}"">
                             <div class="sale"></div>
                             <div class="caption-inner">
-                                <button class="btn btn-success add">Thêm vào giỏ hàng</button>
+                                <button class="btn btn-success add" onclick="addToCart(event)" >Thêm vào giỏ hàng</button>
                             </div>
                         </div>
                         <div class="product__text">
                             <h3 class="product-name">
-                                <a href="../product.html?productID=${item.productID}" class="textline" title="${item.productName}">${item.productName}</a>
+                                <a onclick="viewProductDetail(${item.productID})" href="#" class="textline"  title="${item.productName}">${item.productName}</a>
                             </h3>
                         </div>
                         <div class="product__price">
@@ -170,4 +169,126 @@ function checkSelectedBrand() {
   } else {
     renderProduct(productListToRender);
   }
+}
+function viewProductDetail(productID) {
+  makeProductURL(productID);
+}
+
+function makeProductURL(productID) {
+  var url = new URL("http://127.0.0.1:5500/product.html");
+  url.searchParams.append("productID", productID);
+  window.location.assign(url);
+}
+
+function renderDetailOnload() {
+  var productID = getQueryName("productID", 1);
+  var product = productList.find(function (item) {
+    return item.productID == productID;
+  });
+  renderDetailProduct(product)
+}
+function renderDetailProduct(product) {
+  document.querySelector(".product__root").innerHTML=
+    ` <div class="product__container row col-xs-11 col-sm-11 col-md-11 col-lg-11">
+        <div class="product__header">
+          <a href="#">Trang chủ</a>
+          <a href="#">FLASHSALE - THÁNG 4</a>
+          <p>${product.productName}</p>
+        </div>
+        <div class="product__content">
+          <div
+            class="product__content__image col-xs-6 col-sm-6 col-md-6 col-lg-6"
+          >
+            <img
+              src="${product.mainAvatar}"
+              alt="${product.productName}"
+            />
+          </div>
+          <div
+            class="product__content__descr col-xs-6 col-sm-6 col-md-6 col-lg-6"
+          >
+            <h1>${product.productName}</h1>
+            <div class="product__content__descr__brand">
+              <span style="border-right: solid 1.5px #111"
+                >Thương hiệu:<span> ${product.brand}</span></span
+              >
+              <span>Tình trạng:<span>${product.status}</span></span>
+            </div>
+            <div class="product__content__descr__price">
+              <h3>${product.priceSell} đ</h3>
+              <h5>${product.realPrice} đ</h5>
+            </div>
+            <div class="product__content__descr__border"></div>
+            <div class="product__content__descr__type">
+              <h4>Loại:</h4>
+              <div>
+                <div class="product__content__descr__type-active">TONE 128</div>
+                <div>TONE 120</div>
+              </div>
+            </div>
+            <div class="product__content__descr__type">
+              <h4>Dung tích:</h4>
+              <div>
+                <div class="product__content__descr__type-active">5 ML</div>
+              </div>
+            </div>
+            <div class="product__content__descr__type">
+              <h4>Số lượng:</h4>
+              <div class="product__content__descr__type__control">
+                <button>-</button>
+                <input type="text" value="1" />
+                <button>+</button>
+              </div>
+            </div>
+            <button>Cho vào giỏ hàng</button>
+            <h4>
+              Gọi đặt mua:<a href="#"> 0929398899‬-0965528998 </a>để nhanh chóng
+              đặt hàng
+            </h4>
+          </div>
+        </div>
+        <div class="d-flex product__footer">
+          <div class="product__footer__item">
+            <div>
+              <img
+                src="./images/hocImage/productPage/service_1.png"
+                alt="product ad"
+              />
+            </div>
+            <div class="product__footer__item-content">
+              <h4>Freeship toàn quốc</h4>
+              <h5>Nội thành từ 99K. Ngoại thành, tỉnh từ 299k</h5>
+            </div>
+          </div>
+          <div class="product__footer__item">
+            <div>
+              <img
+                src="./images/hocImage/productPage/service_2.png"
+                alt="product ad"
+              />
+            </div>
+            <div class="product__footer__item-content">
+              <h4>Sản phẩm chính hãng</h4>
+              <h5>Đền ngay 10 Triệu đồng nếu phát hiện hàng FAKE</h5>
+            </div>
+          </div>
+          <div class="product__footer__item">
+            <div>
+              <img
+                src="./images/hocImage/productPage/service_3.png"
+                alt="product ad"
+              />
+            </div>
+            <div class="product__footer__item-content">
+              <h4>Mua hàng giá ưu đãi</h4>
+              <h5>Quà tặng bất ngờ cho đơn hàng 200K</h5>
+            </div>
+          </div>
+        </div>
+      </div>`
+}
+
+function addToCart(event) {
+  console.log("event");
+  event.stopPropagation();
 }
